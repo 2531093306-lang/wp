@@ -1,0 +1,6041 @@
+[
+  {
+    "id": "pet_000001",
+    "name": "喵喵",
+    "is_shiny": false,
+    "image_id": "JL_miaomiao",
+    "handbook_id": "handbook_000002",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.002_喵喵.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000002",
+    "name": "水蓝蓝",
+    "is_shiny": false,
+    "image_id": "JL_shuilanlan",
+    "handbook_id": "handbook_000008",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.008_水蓝蓝.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000003",
+    "name": "火花",
+    "is_shiny": false,
+    "image_id": "JL_huohua",
+    "handbook_id": "handbook_000005",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.005_火花.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000004",
+    "name": "迪莫",
+    "is_shiny": false,
+    "image_id": "JL_dimo",
+    "handbook_id": "handbook_000001",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.001_迪莫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000005",
+    "name": "水灵",
+    "is_shiny": false,
+    "image_id": "JL_shuiling",
+    "handbook_id": "handbook_000010",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.010_水灵.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000006",
+    "name": "火神",
+    "is_shiny": false,
+    "image_id": "JL_huoshen",
+    "handbook_id": "handbook_000007",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.007_火神.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000007",
+    "name": "魔力猫",
+    "is_shiny": false,
+    "image_id": "JL_molimiao",
+    "handbook_id": "handbook_000004",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.004_魔力猫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000008",
+    "name": "草头鸭",
+    "is_shiny": false,
+    "image_id": "JL_caotouya",
+    "handbook_id": "handbook_000179",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.179_草头鸭.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000009",
+    "name": "赤毛鸡仔",
+    "is_shiny": false,
+    "image_id": "JL_chimaojizai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000010",
+    "name": "恶魔叮",
+    "is_shiny": true,
+    "image_id": "JL_emoding",
+    "handbook_id": "handbook_000030",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.030_恶魔叮.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.030_恶魔叮_shiny.png"
+  },
+  {
+    "id": "pet_000011",
+    "name": "恶魔狼",
+    "is_shiny": true,
+    "image_id": "JL_emolang",
+    "handbook_id": "handbook_000131",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.131_恶魔狼.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.131_恶魔狼_shiny.png"
+  },
+  {
+    "id": "pet_000012",
+    "name": "鸭吉吉",
+    "is_shiny": false,
+    "image_id": "JL_yajiji",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000013",
+    "name": "铠甲虫",
+    "is_shiny": false,
+    "image_id": "JL_kaijiachong",
+    "handbook_id": "handbook_000284",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.284_铠甲虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000014",
+    "name": "阿米亚特",
+    "is_shiny": false,
+    "image_id": "JL_amiyate",
+    "handbook_id": "handbook_000105",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.105_阿米亚特.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000015",
+    "name": "阿米樱",
+    "is_shiny": false,
+    "image_id": "JL_amiying",
+    "handbook_id": "handbook_000106",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.106_阿米樱.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000016",
+    "name": "罗隐",
+    "is_shiny": false,
+    "image_id": "JL_luoyin",
+    "handbook_id": "handbook_000107",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.107_罗隐.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000017",
+    "name": "蹦蹦种子",
+    "is_shiny": false,
+    "image_id": "JL_bengbengzhongzi",
+    "handbook_id": "handbook_000063",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.063_蹦蹦种子.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000018",
+    "name": "蹦蹦草",
+    "is_shiny": false,
+    "image_id": "JL_bengbengcao",
+    "handbook_id": "handbook_000064",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.064_蹦蹦草.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000019",
+    "name": "蹦蹦花",
+    "is_shiny": false,
+    "image_id": "JL_bengbenghua",
+    "handbook_id": "handbook_000065",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.065_蹦蹦花.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000020",
+    "name": "地鼠",
+    "is_shiny": false,
+    "image_id": "JL_dishu",
+    "handbook_id": "handbook_000277",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.277_地鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000021",
+    "name": "遁鼠",
+    "is_shiny": false,
+    "image_id": "JL_dunshu",
+    "handbook_id": "handbook_000278",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.278_遁鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000022",
+    "name": "遁地鼠",
+    "is_shiny": false,
+    "image_id": "JL_dundishu",
+    "handbook_id": "handbook_000279",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.279_遁地鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000023",
+    "name": "火云斗鸡",
+    "is_shiny": false,
+    "image_id": "JL_huoyundouji",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000024",
+    "name": "伊丽莎白",
+    "is_shiny": false,
+    "image_id": "JL_yilishabai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000025",
+    "name": "喵呜",
+    "is_shiny": false,
+    "image_id": "JL_miaowu",
+    "handbook_id": "handbook_000003",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.003_喵呜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000026",
+    "name": "绿草精灵",
+    "is_shiny": false,
+    "image_id": "JL_lvcaojingling",
+    "handbook_id": "handbook_000093",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.093_绿草精灵.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000027",
+    "name": "蒲公英娃娃",
+    "is_shiny": false,
+    "image_id": "JL_pugongyingwawa",
+    "handbook_id": "handbook_000070",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.070_蒲公英娃娃.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000028",
+    "name": "冬羽雀",
+    "is_shiny": false,
+    "image_id": "JL_dongyuque",
+    "handbook_id": "handbook_000019",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.019_冬羽雀.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000029",
+    "name": "奇丽草",
+    "is_shiny": true,
+    "image_id": "JL_qilicao",
+    "handbook_id": "handbook_000041",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.041_奇丽草.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.041_奇丽草_shiny.png"
+  },
+  {
+    "id": "pet_000030",
+    "name": "奇丽叶",
+    "is_shiny": true,
+    "image_id": "JL_qiliye",
+    "handbook_id": "handbook_000042",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.042_奇丽叶.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.042_奇丽叶_shiny.png"
+  },
+  {
+    "id": "pet_000031",
+    "name": "奇丽花",
+    "is_shiny": true,
+    "image_id": "JL_qilihua",
+    "handbook_id": "handbook_000043",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.043_奇丽花.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.043_奇丽花_shiny.png"
+  },
+  {
+    "id": "pet_000032",
+    "name": "焰火",
+    "is_shiny": false,
+    "image_id": "JL_yanhuo",
+    "handbook_id": "handbook_000006",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.006_焰火.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000033",
+    "name": "波波拉",
+    "is_shiny": false,
+    "image_id": "JL_bobola",
+    "handbook_id": "handbook_000009",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.009_波波拉.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000034",
+    "name": "蒲公英",
+    "is_shiny": false,
+    "image_id": "JL_pugongying",
+    "handbook_id": "handbook_000069",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.069_蒲公英.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000035",
+    "name": "魔草巫灵",
+    "is_shiny": false,
+    "image_id": "JL_mocaowuling",
+    "handbook_id": "handbook_000094",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.094_魔草巫灵.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000036",
+    "name": "鸭吉吉",
+    "is_shiny": false,
+    "image_id": "JL_yaji",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000037",
+    "name": "岚鸟",
+    "is_shiny": false,
+    "image_id": "JL_lanniao",
+    "handbook_id": "handbook_000020",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.020_岚鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000038",
+    "name": "小甲虫",
+    "is_shiny": false,
+    "image_id": "JL_xiaojiachong",
+    "handbook_id": "handbook_000283",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.283_小甲虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000039",
+    "name": "叮叮恶魔",
+    "is_shiny": true,
+    "image_id": "JL_dingdingemo",
+    "handbook_id": "handbook_000031",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.031_叮叮恶魔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.031_叮叮恶魔_shiny.png"
+  },
+  {
+    "id": "pet_000040",
+    "name": "丢丢",
+    "is_shiny": false,
+    "image_id": "JL_diudiu",
+    "handbook_id": "handbook_000044",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.044_丢丢.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000041",
+    "name": "卡卡虫",
+    "is_shiny": false,
+    "image_id": "JL_kakachong",
+    "handbook_id": "handbook_000045",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.045_卡卡虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000042",
+    "name": "卡瓦重",
+    "is_shiny": false,
+    "image_id": "JL_kawachong",
+    "handbook_id": "handbook_000046",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.046_卡瓦重.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000043",
+    "name": "伊贝儿",
+    "is_shiny": false,
+    "image_id": "JL_yibeier",
+    "handbook_id": "handbook_000071",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.071_伊贝儿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000044",
+    "name": "伊贝粉粉",
+    "is_shiny": false,
+    "image_id": "JL_yibeifenfen",
+    "handbook_id": "handbook_000072",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.072_伊贝粉粉.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000045",
+    "name": "锥尾羊",
+    "is_shiny": false,
+    "image_id": "JL_youlingyang",
+    "handbook_id": "handbook_000015",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.015_锥尾羊.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000046",
+    "name": "铃兰羊",
+    "is_shiny": false,
+    "image_id": "JL_lanlingyang",
+    "handbook_id": "handbook_000016",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.016_铃兰羊.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000047",
+    "name": "花影羚羊",
+    "is_shiny": false,
+    "image_id": "JL_guimeilingyang",
+    "handbook_id": "handbook_000017",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.017_花影羚羊.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000048",
+    "name": "圣光迪莫",
+    "is_shiny": false,
+    "image_id": "JL_shengguangdimo",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000049",
+    "name": "白发懒人",
+    "is_shiny": false,
+    "image_id": "JL_baifalanren",
+    "handbook_id": "handbook_000073",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.073_白发懒人.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000050",
+    "name": "记忆石",
+    "is_shiny": false,
+    "image_id": "JL_jiyishi",
+    "handbook_id": "handbook_000095",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.095_记忆石.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000051",
+    "name": "圣草迪莫",
+    "is_shiny": false,
+    "image_id": "JL_shengcaodimo",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000052",
+    "name": "煤球憨憨",
+    "is_shiny": false,
+    "image_id": "JL_meiqiuhanhan",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000053",
+    "name": "害羞球球",
+    "is_shiny": false,
+    "image_id": "JL_haixiuqiuqiu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000054",
+    "name": "蓝衣夜灵",
+    "is_shiny": false,
+    "image_id": "JL_lanyiyeling",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000055",
+    "name": "板板壳",
+    "is_shiny": false,
+    "image_id": "JL_banbanke",
+    "handbook_id": "handbook_000012",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.012_板板壳.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000056",
+    "name": "咔咔壳",
+    "is_shiny": false,
+    "image_id": "JL_kakake",
+    "handbook_id": "handbook_000013",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.013_咔咔壳.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000057",
+    "name": "水泡壳",
+    "is_shiny": false,
+    "image_id": "JL_shuipaoke",
+    "handbook_id": "handbook_000014",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.014_水泡壳.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000058",
+    "name": "一窝蜂",
+    "is_shiny": false,
+    "image_id": "JL_xiaomifeng",
+    "handbook_id": "handbook_000082",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.082_一窝蜂.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000059",
+    "name": "黄蜂后",
+    "is_shiny": false,
+    "image_id": "JL_huangfenghou",
+    "handbook_id": "handbook_000083",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.083_黄蜂后.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000060",
+    "name": "小灵面",
+    "is_shiny": false,
+    "image_id": "JL_xiaoyoulinglian",
+    "handbook_id": "handbook_000054",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.054_小灵面.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000061",
+    "name": "暗影灵面",
+    "is_shiny": false,
+    "image_id": "JL_youlinglian",
+    "handbook_id": "handbook_000055",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.055_暗影灵面.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000062",
+    "name": "小独角兽",
+    "is_shiny": true,
+    "image_id": "JL_xiaodujiaoshou",
+    "handbook_id": "handbook_000116",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.116_小独角兽.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.116_小独角兽_shiny.png"
+  },
+  {
+    "id": "pet_000063",
+    "name": "白金独角兽",
+    "is_shiny": true,
+    "image_id": "JL_baijindujiaoshou",
+    "handbook_id": "handbook_000117",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.117_白金独角兽.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.117_白金独角兽_shiny.png"
+  },
+  {
+    "id": "pet_000064",
+    "name": "幽影树",
+    "is_shiny": true,
+    "image_id": "JL_youlingshu",
+    "handbook_id": "handbook_000035",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.035_幽影树.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.035_幽影树_shiny.png"
+  },
+  {
+    "id": "pet_000065",
+    "name": "忽幽狸",
+    "is_shiny": false,
+    "image_id": "JL_huyouli",
+    "handbook_id": "handbook_000123",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.123_忽幽狸.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000066",
+    "name": "影狸",
+    "is_shiny": false,
+    "image_id": "JL_youlingli",
+    "handbook_id": "handbook_000124",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.124_影狸.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000067",
+    "name": "卷毛鸭",
+    "is_shiny": false,
+    "image_id": "JL_zhuangzhuangya",
+    "handbook_id": "handbook_000180",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.180_卷毛鸭.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000068",
+    "name": "锤头鹳",
+    "is_shiny": false,
+    "image_id": "JL_chuitouguan",
+    "handbook_id": "handbook_000092",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.092_锤头鹳.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000069",
+    "name": "护主犬",
+    "is_shiny": false,
+    "image_id": "JL_huzhuquan",
+    "handbook_id": "handbook_000047",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.047_护主犬.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000070",
+    "name": "音速犬",
+    "is_shiny": false,
+    "image_id": "JL_yinsuquan",
+    "handbook_id": "handbook_000048",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.048_音速犬.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000071",
+    "name": "格兰种子",
+    "is_shiny": true,
+    "image_id": "JL_gelanzhongzi",
+    "handbook_id": "handbook_000274",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.274_格兰种子.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.274_格兰种子_shiny.png"
+  },
+  {
+    "id": "pet_000072",
+    "name": "格兰花",
+    "is_shiny": true,
+    "image_id": "JL_gelanhua",
+    "handbook_id": "handbook_000275",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.275_格兰花.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.275_格兰花_shiny.png"
+  },
+  {
+    "id": "pet_000073",
+    "name": "格兰球",
+    "is_shiny": true,
+    "image_id": "JL_gelanqiu",
+    "handbook_id": "handbook_000276",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.276_格兰球.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.276_格兰球_shiny.png"
+  },
+  {
+    "id": "pet_000074",
+    "name": "灵狐",
+    "is_shiny": true,
+    "image_id": "JL_linghu",
+    "handbook_id": "handbook_000147",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.147_灵狐.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.147_灵狐_shiny.png"
+  },
+  {
+    "id": "pet_000075",
+    "name": "九尾狐",
+    "is_shiny": true,
+    "image_id": "JL_jiuweihu",
+    "handbook_id": "handbook_000148",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.148_九尾狐.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.148_九尾狐_shiny.png"
+  },
+  {
+    "id": "pet_000076",
+    "name": "尖嘴狐仙",
+    "is_shiny": true,
+    "image_id": "JL_jianzuihuxian",
+    "handbook_id": "handbook_000149",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.149_尖嘴狐仙.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.149_尖嘴狐仙_shiny.png"
+  },
+  {
+    "id": "pet_000077",
+    "name": "烈钻鸟",
+    "is_shiny": false,
+    "image_id": "JL_liezuanniao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000078",
+    "name": "长尾火鸟",
+    "is_shiny": false,
+    "image_id": "JL_changweihuoniao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000079",
+    "name": "火羽",
+    "is_shiny": false,
+    "image_id": "JL_huoyu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000080",
+    "name": "治愈兔",
+    "is_shiny": true,
+    "image_id": "JL_zhiyuhuowa",
+    "handbook_id": "handbook_000255",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.255_治愈兔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.255_治愈兔_shiny.png"
+  },
+  {
+    "id": "pet_000081",
+    "name": "红丝绒",
+    "is_shiny": true,
+    "image_id": "JL_shengguanghuowa",
+    "handbook_id": "handbook_000256",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.256_红丝绒.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.256_红丝绒_shiny.png"
+  },
+  {
+    "id": "pet_000082",
+    "name": "可爱猿",
+    "is_shiny": false,
+    "image_id": "JL_keaiyuan",
+    "handbook_id": "handbook_000249",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.249_可爱猿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000083",
+    "name": "炽热猿",
+    "is_shiny": false,
+    "image_id": "JL_zhireyuan",
+    "handbook_id": "handbook_000250",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.250_炽热猿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000084",
+    "name": "火焰猿",
+    "is_shiny": false,
+    "image_id": "JL_huoyanyuan",
+    "handbook_id": "handbook_000251",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.251_火焰猿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000085",
+    "name": "可立鸡",
+    "is_shiny": false,
+    "image_id": "JL_keliji",
+    "handbook_id": "handbook_000266",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.266_可立鸡.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000086",
+    "name": "晕晕鸡",
+    "is_shiny": false,
+    "image_id": "JL_yunyunji",
+    "handbook_id": "handbook_000267",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.267_晕晕鸡.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000087",
+    "name": "绅士鸡",
+    "is_shiny": false,
+    "image_id": "JL_shenshiji",
+    "handbook_id": "handbook_000268",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.268_绅士鸡.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000088",
+    "name": "武者鸡",
+    "is_shiny": false,
+    "image_id": "JL_wuzheji",
+    "handbook_id": "handbook_000269",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.269_武者鸡.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000089",
+    "name": "火尾瓦特",
+    "is_shiny": false,
+    "image_id": "JL_huoweiwate",
+    "handbook_id": "handbook_000216",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.216_火尾瓦特.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000090",
+    "name": "火尾战士",
+    "is_shiny": false,
+    "image_id": "JL_huoweizhanshi",
+    "handbook_id": "handbook_000217",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.217_火尾战士.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000091",
+    "name": "烈火守护",
+    "is_shiny": false,
+    "image_id": "JL_liehuoshouhu",
+    "handbook_id": "handbook_000218",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.218_烈火守护.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000092",
+    "name": "呆小路",
+    "is_shiny": false,
+    "image_id": "JL_daixiaolu",
+    "handbook_id": "handbook_000195",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.195_呆小路.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000093",
+    "name": "舞动路路",
+    "is_shiny": false,
+    "image_id": "JL_wudonglulu",
+    "handbook_id": "handbook_000196",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.196_舞动路路.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000094",
+    "name": "白发路路",
+    "is_shiny": false,
+    "image_id": "JL_baifalulu",
+    "handbook_id": "handbook_000197",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.197_白发路路.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000095",
+    "name": "绿耳松鼠",
+    "is_shiny": false,
+    "image_id": "JL_lversongshu",
+    "handbook_id": "handbook_000049",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.049_绿耳松鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000096",
+    "name": "抱枕松鼠",
+    "is_shiny": false,
+    "image_id": "JL_baozhensongshu",
+    "handbook_id": "handbook_000050",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.050_抱枕松鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000097",
+    "name": "蹦床松鼠",
+    "is_shiny": false,
+    "image_id": "JL_bengchuangsongshu",
+    "handbook_id": "handbook_000051",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.051_蹦床松鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000098",
+    "name": "动力猿",
+    "is_shiny": false,
+    "image_id": "JL_dongliyuan",
+    "handbook_id": "handbook_000074",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.074_动力猿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000099",
+    "name": "瞌睡王",
+    "is_shiny": false,
+    "image_id": "JL_keshuiwang",
+    "handbook_id": "handbook_000075",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.075_瞌睡王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000100",
+    "name": "布是石",
+    "is_shiny": false,
+    "image_id": "JL_xiaobushi",
+    "handbook_id": "handbook_000027",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.027_布是石.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000101",
+    "name": "布是岩",
+    "is_shiny": false,
+    "image_id": "JL_bulaishi",
+    "handbook_id": "handbook_000028",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.028_布是岩.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000102",
+    "name": "布克棱岩",
+    "is_shiny": false,
+    "image_id": "JL_bulaikeyan",
+    "handbook_id": "handbook_000029",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.029_布克棱岩.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000103",
+    "name": "石肤蜥",
+    "is_shiny": false,
+    "image_id": "JL_huociyanxiyi",
+    "handbook_id": "handbook_000024",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.024_石肤蜥.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000104",
+    "name": "石刺蜥",
+    "is_shiny": false,
+    "image_id": "JL_conglinluxiyi",
+    "handbook_id": "handbook_000025",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.025_石刺蜥.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000105",
+    "name": "石冠王蜥",
+    "is_shiny": false,
+    "image_id": "JL_shihuacixiyi",
+    "handbook_id": "handbook_000026",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.026_石冠王蜥.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000106",
+    "name": "仪使者",
+    "is_shiny": false,
+    "image_id": "JL_maya",
+    "handbook_id": "handbook_000113",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.113_仪使者.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000107",
+    "name": "仪式之星",
+    "is_shiny": false,
+    "image_id": "JL_mayazhixing",
+    "handbook_id": "handbook_000114",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.114_仪式之星.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000108",
+    "name": "仪式巨像",
+    "is_shiny": false,
+    "image_id": "JL_mayashixianggui",
+    "handbook_id": "handbook_000115",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.115_仪式巨像.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000109",
+    "name": "甜田螺",
+    "is_shiny": false,
+    "image_id": "JL_xiaotiantian",
+    "handbook_id": "handbook_000185",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.185_甜田螺.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000110",
+    "name": "壳乙螺",
+    "is_shiny": false,
+    "image_id": "JL_hailuoguniang",
+    "handbook_id": "handbook_000186",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.186_壳乙螺.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000111",
+    "name": "卡洛儿",
+    "is_shiny": false,
+    "image_id": "JL_kaluoer",
+    "handbook_id": "handbook_000187",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.187_卡洛儿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000112",
+    "name": "风铃鲨",
+    "is_shiny": false,
+    "image_id": "JL_fuzhousha",
+    "handbook_id": "handbook_000108",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.108_风铃鲨.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000113",
+    "name": "蓝蝶鲨",
+    "is_shiny": false,
+    "image_id": "JL_landiesha",
+    "handbook_id": "handbook_000109",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.109_蓝蝶鲨.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000114",
+    "name": "彩蝶鲨",
+    "is_shiny": false,
+    "image_id": "JL_caidiesha",
+    "handbook_id": "handbook_000110",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.110_彩蝶鲨.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000115",
+    "name": "果冻",
+    "is_shiny": false,
+    "image_id": "JL_guodong",
+    "handbook_id": "handbook_000313",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.313_果冻.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000116",
+    "name": "翡翠水母",
+    "is_shiny": false,
+    "image_id": "JL_feicuishuimu",
+    "handbook_id": "handbook_000244",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.244_翡翠水母.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000117",
+    "name": "琉璃水母",
+    "is_shiny": false,
+    "image_id": "JL_liulishuimu",
+    "handbook_id": "handbook_000245",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.245_琉璃水母.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000118",
+    "name": "大耳帽兜",
+    "is_shiny": true,
+    "image_id": "JL_daermaodou",
+    "handbook_id": "handbook_000142",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.142_大耳帽兜.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.142_大耳帽兜_shiny.png"
+  },
+  {
+    "id": "pet_000119",
+    "name": "帽兜娃娃",
+    "is_shiny": true,
+    "image_id": "JL_maodouwawa",
+    "handbook_id": "handbook_000143",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.143_帽兜娃娃.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.143_帽兜娃娃_shiny.png"
+  },
+  {
+    "id": "pet_000120",
+    "name": "雪影娃娃",
+    "is_shiny": true,
+    "image_id": "JL_xueyingwawa",
+    "handbook_id": "handbook_000144",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.144_雪影娃娃.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.144_雪影娃娃_shiny.png"
+  },
+  {
+    "id": "pet_000121",
+    "name": "脆筒甜甜",
+    "is_shiny": false,
+    "image_id": "JL_dingding",
+    "handbook_id": "handbook_000234",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.234_脆筒甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000122",
+    "name": "香草甜甜",
+    "is_shiny": false,
+    "image_id": "JL_yingtaodingding",
+    "handbook_id": "handbook_000235",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.235_香草甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000123",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000124",
+    "name": "小狮鹫",
+    "is_shiny": false,
+    "image_id": "JL_xiaoshijiu",
+    "handbook_id": "handbook_000165",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.165_小狮鹫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000125",
+    "name": "神圣狮鹫",
+    "is_shiny": false,
+    "image_id": "JL_shenshengshijiu",
+    "handbook_id": "handbook_000166",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.166_神圣狮鹫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000126",
+    "name": "皇家狮鹫",
+    "is_shiny": false,
+    "image_id": "JL_huangjiashijiu",
+    "handbook_id": "handbook_000167",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.167_皇家狮鹫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000127",
+    "name": "圆眼蜘蛛",
+    "is_shiny": false,
+    "image_id": "JL_yuanyanzhizhu",
+    "handbook_id": "handbook_000168",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.168_圆眼蜘蛛.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000128",
+    "name": "尖角蜘蛛",
+    "is_shiny": false,
+    "image_id": "JL_jianjiaozhizhu",
+    "handbook_id": "handbook_000169",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.169_尖角蜘蛛.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000129",
+    "name": "芋香巨角蛛",
+    "is_shiny": false,
+    "image_id": "JL_fengcizhizhu",
+    "handbook_id": "handbook_000170",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.170_芋香巨角蛛.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000130",
+    "name": "小螂",
+    "is_shiny": false,
+    "image_id": "JL_xiaolang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000131",
+    "name": "兵螂",
+    "is_shiny": false,
+    "image_id": "JL_binglang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000132",
+    "name": "飞天刀螂",
+    "is_shiny": false,
+    "image_id": "JL_feitiandaolang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000133",
+    "name": "毛毛",
+    "is_shiny": false,
+    "image_id": "JL_maomao",
+    "handbook_id": "handbook_000032",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.032_毛毛.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000134",
+    "name": "爬爬",
+    "is_shiny": false,
+    "image_id": "JL_papa",
+    "handbook_id": "handbook_000033",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.033_爬爬.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000135",
+    "name": "化蝶",
+    "is_shiny": false,
+    "image_id": "JL_huadie",
+    "handbook_id": "handbook_000034",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.034_化蝶.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000136",
+    "name": "小草虫",
+    "is_shiny": false,
+    "image_id": "JL_xiaocaochong",
+    "handbook_id": "handbook_000099",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.099_小草虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000137",
+    "name": "草衣虫",
+    "is_shiny": false,
+    "image_id": "JL_caoyichong",
+    "handbook_id": "handbook_000100",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.100_草衣虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000138",
+    "name": "花衣蝶",
+    "is_shiny": false,
+    "image_id": "JL_huayidie",
+    "handbook_id": "handbook_000101",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.101_花衣蝶.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000139",
+    "name": "小夜",
+    "is_shiny": true,
+    "image_id": "JL_xiaoye",
+    "handbook_id": "handbook_000085",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.085_小夜.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.085_小夜_shiny.png"
+  },
+  {
+    "id": "pet_000140",
+    "name": "紫夜",
+    "is_shiny": true,
+    "image_id": "JL_ziye",
+    "handbook_id": "handbook_000086",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.086_紫夜.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.086_紫夜_shiny.png"
+  },
+  {
+    "id": "pet_000141",
+    "name": "朔夜伊芙",
+    "is_shiny": true,
+    "image_id": "JL_ziyemeiying",
+    "handbook_id": "handbook_000087",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.087_朔夜伊芙.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.087_朔夜伊芙_shiny.png"
+  },
+  {
+    "id": "pet_000142",
+    "name": "小灵菇",
+    "is_shiny": false,
+    "image_id": "JL_xiaolinggu",
+    "handbook_id": "handbook_000021",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.021_小灵菇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000143",
+    "name": "幻灵菇",
+    "is_shiny": false,
+    "image_id": "JL_youlinggu",
+    "handbook_id": "handbook_000022",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.022_幻灵菇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000144",
+    "name": "幻影灵菇",
+    "is_shiny": false,
+    "image_id": "JL_lunhuilinggu",
+    "handbook_id": "handbook_000023",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.023_幻影灵菇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000145",
+    "name": "空空颅",
+    "is_shiny": true,
+    "image_id": "JL_anyekulou",
+    "handbook_id": "handbook_000327",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.327_空空颅.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.327_空空颅_shiny.png"
+  },
+  {
+    "id": "pet_000146",
+    "name": "夜宿颅",
+    "is_shiny": true,
+    "image_id": "JL_yejumo",
+    "handbook_id": "handbook_000328",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.328_夜宿颅.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.328_夜宿颅_shiny.png"
+  },
+  {
+    "id": "pet_000147",
+    "name": "夜枭",
+    "is_shiny": true,
+    "image_id": "JL_yexiao",
+    "handbook_id": "handbook_000329",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.329_夜枭.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.329_夜枭_shiny.png"
+  },
+  {
+    "id": "pet_000148",
+    "name": "多多",
+    "is_shiny": false,
+    "image_id": "JL_duoduo",
+    "handbook_id": "handbook_000125",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.125_多多.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000149",
+    "name": "多啦多",
+    "is_shiny": false,
+    "image_id": "JL_duoladuo",
+    "handbook_id": "handbook_000126",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.126_多啦多.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000150",
+    "name": "古啦多",
+    "is_shiny": false,
+    "image_id": "JL_guladuo",
+    "handbook_id": "handbook_000127",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.127_古啦多.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000151",
+    "name": "裘洛",
+    "is_shiny": false,
+    "image_id": "JL_qiuluo",
+    "handbook_id": "handbook_000246",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.246_裘洛.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000152",
+    "name": "裘力",
+    "is_shiny": false,
+    "image_id": "JL_qiuli",
+    "handbook_id": "handbook_000247",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.247_裘力.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000153",
+    "name": "裘卡",
+    "is_shiny": false,
+    "image_id": "JL_qiuka",
+    "handbook_id": "handbook_000248",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.248_裘卡.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000154",
+    "name": "花魁蜂后",
+    "is_shiny": false,
+    "image_id": "JL_huakuifenghou",
+    "handbook_id": "handbook_000084",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.084_花魁蜂后.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000155",
+    "name": "武斗酷猫",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000156",
+    "name": "春团",
+    "is_shiny": false,
+    "image_id": "JL_xiaoxiaoyutu",
+    "handbook_id": "handbook_000342",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.342_春团.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000157",
+    "name": "春兔",
+    "is_shiny": false,
+    "image_id": "JL_chuntuxiaozi",
+    "handbook_id": "handbook_000343",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.343_春兔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000158",
+    "name": "伏地兽",
+    "is_shiny": false,
+    "image_id": "JL_fudishou",
+    "handbook_id": "handbook_000060",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.060_伏地兽.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000159",
+    "name": "贪食鼹",
+    "is_shiny": false,
+    "image_id": "JL_shiyishou",
+    "handbook_id": "handbook_000061",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.061_贪食鼹.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000160",
+    "name": "巨噬针鼹",
+    "is_shiny": false,
+    "image_id": "JL_wanzuishou",
+    "handbook_id": "handbook_000062",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.062_巨噬针鼹.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000161",
+    "name": "阿布",
+    "is_shiny": false,
+    "image_id": "JL_abu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000162",
+    "name": "超能阿布",
+    "is_shiny": false,
+    "image_id": "JL_chaonengabu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000163",
+    "name": "石石",
+    "is_shiny": false,
+    "image_id": "JL_xiaoshitou",
+    "handbook_id": "handbook_000111",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.111_石石.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000164",
+    "name": "巨灵石",
+    "is_shiny": false,
+    "image_id": "JL_julingshi",
+    "handbook_id": "handbook_000112",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.112_巨灵石.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000165",
+    "name": "雪豆丁",
+    "is_shiny": false,
+    "image_id": "JL_xuedouding",
+    "handbook_id": "handbook_000134",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.134_雪豆丁.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000166",
+    "name": "雪蛮人",
+    "is_shiny": false,
+    "image_id": "JL_xuemanren",
+    "handbook_id": "handbook_000135",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.135_雪蛮人.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000167",
+    "name": "雪巨人",
+    "is_shiny": false,
+    "image_id": "JL_xuejuren",
+    "handbook_id": "handbook_000136",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.136_雪巨人.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000168",
+    "name": "咔咔羽毛",
+    "is_shiny": false,
+    "image_id": "JL_kakayumao",
+    "handbook_id": "handbook_000096",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.096_咔咔羽毛.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000169",
+    "name": "咔咔雀",
+    "is_shiny": false,
+    "image_id": "JL_kakaque",
+    "handbook_id": "handbook_000097",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.097_咔咔雀.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000170",
+    "name": "咔咔鸟",
+    "is_shiny": false,
+    "image_id": "JL_kakaniao",
+    "handbook_id": "handbook_000098",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.098_咔咔鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000171",
+    "name": "矮脚爬爬",
+    "is_shiny": false,
+    "image_id": "JL_judulangzhu",
+    "handbook_id": "handbook_000214",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.214_矮脚爬爬.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000172",
+    "name": "恶魔红钻",
+    "is_shiny": false,
+    "image_id": "JL_emolangzhu",
+    "handbook_id": "handbook_000215",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.215_恶魔红钻.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000173",
+    "name": "小帕尔",
+    "is_shiny": false,
+    "image_id": "JL_xiaopaersasi",
+    "handbook_id": "handbook_000293",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.293_小帕尔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000174",
+    "name": "帕尔萨斯",
+    "is_shiny": false,
+    "image_id": "JL_paersasi2",
+    "handbook_id": "handbook_000294",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.294_帕尔萨斯.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000175",
+    "name": "龙息帕尔",
+    "is_shiny": false,
+    "image_id": "JL_longxipaer",
+    "handbook_id": "handbook_000295",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.295_龙息帕尔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000176",
+    "name": "瑰眼仔",
+    "is_shiny": false,
+    "image_id": "JL_guiyankungchong",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000177",
+    "name": "耳翎瑰魅",
+    "is_shiny": false,
+    "image_id": "JL_erlingguimei",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000178",
+    "name": "邪眼巨魔",
+    "is_shiny": false,
+    "image_id": "JL_jumoxiechong",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000179",
+    "name": "小光",
+    "is_shiny": false,
+    "image_id": "JL_xiaoguang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000180",
+    "name": "迷迷眼",
+    "is_shiny": false,
+    "image_id": "JL_mimiyan",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000181",
+    "name": "拉特",
+    "is_shiny": true,
+    "image_id": "JL_late",
+    "handbook_id": "handbook_000205",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.205_拉特.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.205_拉特_shiny.png"
+  },
+  {
+    "id": "pet_000182",
+    "name": "酷拉",
+    "is_shiny": true,
+    "image_id": "JL_kula",
+    "handbook_id": "handbook_000206",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.206_酷拉.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.206_酷拉_shiny.png"
+  },
+  {
+    "id": "pet_000183",
+    "name": "电咩咩",
+    "is_shiny": false,
+    "image_id": "JL_dianmiemie",
+    "handbook_id": "handbook_000066",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.066_电咩咩.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000184",
+    "name": "粉咩咩",
+    "is_shiny": false,
+    "image_id": "JL_fenmiemie",
+    "handbook_id": "handbook_000067",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.067_粉咩咩.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000185",
+    "name": "电球咩咩",
+    "is_shiny": false,
+    "image_id": "JL_dianqiumiemie",
+    "handbook_id": "handbook_000068",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.068_电球咩咩.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000186",
+    "name": "小星光",
+    "is_shiny": false,
+    "image_id": "JL_xiaoxingguang",
+    "handbook_id": "handbook_000080",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.080_小星光.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000187",
+    "name": "星光狮",
+    "is_shiny": false,
+    "image_id": "JL_xingguangsh",
+    "handbook_id": "handbook_000081",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.081_星光狮.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000188",
+    "name": "闪电环",
+    "is_shiny": false,
+    "image_id": "JL_shandianhuan",
+    "handbook_id": "handbook_000207",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.207_闪电环.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000189",
+    "name": "刺电环",
+    "is_shiny": false,
+    "image_id": "JL_beishangdianhuan",
+    "handbook_id": "handbook_000208",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.208_刺电环.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000190",
+    "name": "荆棘电环",
+    "is_shiny": false,
+    "image_id": "JL_tongkudianhuan",
+    "handbook_id": "handbook_000209",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.209_荆棘电环.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000191",
+    "name": "粉粉星",
+    "is_shiny": true,
+    "image_id": "JL_fenfenxing",
+    "handbook_id": "handbook_000330",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.330_粉粉星.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.330_粉粉星_shiny.png"
+  },
+  {
+    "id": "pet_000192",
+    "name": "小皮球",
+    "is_shiny": true,
+    "image_id": "JL_xiaopiqiu",
+    "handbook_id": "handbook_000331",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.331_小皮球.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.331_小皮球_shiny.png"
+  },
+  {
+    "id": "pet_000193",
+    "name": "机械方方",
+    "is_shiny": true,
+    "image_id": "JL_jixiefangfang",
+    "handbook_id": "handbook_000263",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.263_机械方方.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.263_机械方方_shiny.png"
+  },
+  {
+    "id": "pet_000194",
+    "name": "多彩方方",
+    "is_shiny": true,
+    "image_id": "JL_duocaifangfang",
+    "handbook_id": "handbook_000264",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.264_多彩方方.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.264_多彩方方_shiny.png"
+  },
+  {
+    "id": "pet_000195",
+    "name": "立方人",
+    "is_shiny": true,
+    "image_id": "JL_lifangren",
+    "handbook_id": "handbook_000265",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.265_立方人.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.265_立方人_shiny.png"
+  },
+  {
+    "id": "pet_000196",
+    "name": "贝瑟",
+    "is_shiny": true,
+    "image_id": "JL_beise",
+    "handbook_id": "handbook_000332",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.332_贝瑟.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.332_贝瑟_shiny.png"
+  },
+  {
+    "id": "pet_000197",
+    "name": "贝加尔",
+    "is_shiny": true,
+    "image_id": "JL_beijiaer",
+    "handbook_id": "handbook_000333",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.333_贝加尔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.333_贝加尔_shiny.png"
+  },
+  {
+    "id": "pet_000198",
+    "name": "贝古斯",
+    "is_shiny": true,
+    "image_id": "JL_beigusi",
+    "handbook_id": "handbook_000334",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.334_贝古斯.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.334_贝古斯_shiny.png"
+  },
+  {
+    "id": "pet_000199",
+    "name": "多西",
+    "is_shiny": false,
+    "image_id": "JL_duoxi",
+    "handbook_id": "handbook_000221",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.221_多西.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000200",
+    "name": "库多西",
+    "is_shiny": false,
+    "image_id": "JL_kuduoxi",
+    "handbook_id": "handbook_000222",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.222_库多西.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000201",
+    "name": "波多西",
+    "is_shiny": false,
+    "image_id": "JL_boduoxi",
+    "handbook_id": "handbook_000223",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.223_波多西.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000202",
+    "name": "小翼龙",
+    "is_shiny": false,
+    "image_id": "JL_xiaoyilong",
+    "handbook_id": "handbook_000224",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.224_小翼龙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000203",
+    "name": "翼龙",
+    "is_shiny": false,
+    "image_id": "JL_yilong",
+    "handbook_id": "handbook_000225",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.225_翼龙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000204",
+    "name": "伊雷龙",
+    "is_shiny": false,
+    "image_id": "JL_yileilong",
+    "handbook_id": "handbook_000203",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.203_伊雷龙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000205",
+    "name": "黑炎宝宝",
+    "is_shiny": false,
+    "image_id": "JL_heiyanbaobao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000206",
+    "name": "黑炎",
+    "is_shiny": false,
+    "image_id": "JL_heiyan",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000207",
+    "name": "海豹战士",
+    "is_shiny": false,
+    "image_id": "JL_haibaozhanshi",
+    "handbook_id": "handbook_000181",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.181_海豹战士.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000208",
+    "name": "海豹船长",
+    "is_shiny": false,
+    "image_id": "JL_haibaochuangzhang",
+    "handbook_id": "handbook_000182",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.182_海豹船长.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000209",
+    "name": "呼拉猫",
+    "is_shiny": false,
+    "image_id": "JL_jianfeimao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000210",
+    "name": "增肌猫",
+    "is_shiny": false,
+    "image_id": "JL_jiroumao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000211",
+    "name": "健猫教练",
+    "is_shiny": false,
+    "image_id": "JL_baolizhanmao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000212",
+    "name": "古钟蛇",
+    "is_shiny": false,
+    "image_id": "JL_guzhongshe",
+    "handbook_id": "handbook_000212",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.212_古钟蛇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000213",
+    "name": "寒音蛇",
+    "is_shiny": false,
+    "image_id": "JL_hanyinshe",
+    "handbook_id": "handbook_000213",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.213_寒音蛇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000214",
+    "name": "菊花梨",
+    "is_shiny": true,
+    "image_id": "JL_juhuali",
+    "handbook_id": "handbook_000079",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.079_菊花梨.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.079_菊花梨_shiny.png"
+  },
+  {
+    "id": "pet_000215",
+    "name": "友爱天天",
+    "is_shiny": false,
+    "image_id": "JL_feiman",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000216",
+    "name": "友爱星飞",
+    "is_shiny": false,
+    "image_id": "JL_feigeer",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000217",
+    "name": "牵线木偶",
+    "is_shiny": true,
+    "image_id": "JL_qianxianmuou",
+    "handbook_id": "handbook_000373",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.373_牵线木偶.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.373_牵线木偶_shiny.png"
+  },
+  {
+    "id": "pet_000218",
+    "name": "帅帅魔偶",
+    "is_shiny": true,
+    "image_id": "JL_shuaishuaimoou",
+    "handbook_id": "handbook_000374",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.374_帅帅魔偶.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.374_帅帅魔偶_shiny.png"
+  },
+  {
+    "id": "pet_000219",
+    "name": "超能球球",
+    "is_shiny": false,
+    "image_id": "JL_chaonengqiuqiu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000220",
+    "name": "小怂猫",
+    "is_shiny": false,
+    "image_id": "JL_xiaosongmao",
+    "handbook_id": "handbook_000163",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.163_小怂猫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000221",
+    "name": "怒目怂猫",
+    "is_shiny": false,
+    "image_id": "JL_numusongmao",
+    "handbook_id": "handbook_000164",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.164_怒目怂猫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000222",
+    "name": "哭哭菇",
+    "is_shiny": false,
+    "image_id": "JL_kukugu",
+    "handbook_id": "handbook_000128",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.128_哭哭菇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000223",
+    "name": "怖须菇",
+    "is_shiny": false,
+    "image_id": "JL_buxugu",
+    "handbook_id": "handbook_000129",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.129_怖须菇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000224",
+    "name": "怖哭菇",
+    "is_shiny": false,
+    "image_id": "JL_bukugu",
+    "handbook_id": "handbook_000130",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.130_怖哭菇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000225",
+    "name": "绒绒",
+    "is_shiny": true,
+    "image_id": "JL_rongrong",
+    "handbook_id": "handbook_000307",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.307_绒绒.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.307_绒绒_shiny.png"
+  },
+  {
+    "id": "pet_000226",
+    "name": "小绒茧",
+    "is_shiny": true,
+    "image_id": "JL_xiaorongjian",
+    "handbook_id": "handbook_000308",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.308_小绒茧.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.308_小绒茧_shiny.png"
+  },
+  {
+    "id": "pet_000227",
+    "name": "绒仙子",
+    "is_shiny": true,
+    "image_id": "JL_rongxianzi",
+    "handbook_id": "handbook_000309",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.309_绒仙子.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.309_绒仙子_shiny.png"
+  },
+  {
+    "id": "pet_000228",
+    "name": "绿洲象",
+    "is_shiny": false,
+    "image_id": "JL_lvzhoumengmaxiang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000229",
+    "name": "流星猛犸",
+    "is_shiny": false,
+    "image_id": "JL_liuxiangmengmaxiang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000230",
+    "name": "小鹬",
+    "is_shiny": false,
+    "image_id": "JL_xiaoyu",
+    "handbook_id": "handbook_000231",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.231_小鹬.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000231",
+    "name": "鄙目鹬",
+    "is_shiny": false,
+    "image_id": "JL_bimuyu",
+    "handbook_id": "handbook_000232",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.232_鄙目鹬.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000232",
+    "name": "高脚鹬",
+    "is_shiny": false,
+    "image_id": "JL_gaojiaoyu",
+    "handbook_id": "handbook_000233",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.233_高脚鹬.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000233",
+    "name": "奔波鼠",
+    "is_shiny": false,
+    "image_id": "JL_benboshu",
+    "handbook_id": "handbook_000193",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.193_奔波鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000234",
+    "name": "流浪鼠",
+    "is_shiny": false,
+    "image_id": "JL_liulangshu",
+    "handbook_id": "handbook_000194",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.194_流浪鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000235",
+    "name": "布鲁斯",
+    "is_shiny": false,
+    "image_id": "JL_bulusi",
+    "handbook_id": "handbook_000252",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.252_布鲁斯.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000236",
+    "name": "雪顶布鲁斯",
+    "is_shiny": false,
+    "image_id": "JL_xuedingbulusi",
+    "handbook_id": "handbook_000253",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.253_雪顶布鲁斯.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000237",
+    "name": "冰钻布鲁斯",
+    "is_shiny": false,
+    "image_id": "JL_bingzuanbulusi",
+    "handbook_id": "handbook_000254",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.254_冰钻布鲁斯.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000238",
+    "name": "古拉海象",
+    "is_shiny": false,
+    "image_id": "JL_gulahaixiang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000239",
+    "name": "大古拉海象",
+    "is_shiny": false,
+    "image_id": "JL_dagulahaixiang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000240",
+    "name": "呼呼猪",
+    "is_shiny": true,
+    "image_id": "JL_huhuzhu",
+    "handbook_id": "handbook_000137",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.137_呼呼猪.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.137_呼呼猪_shiny.png"
+  },
+  {
+    "id": "pet_000241",
+    "name": "獠牙猪",
+    "is_shiny": true,
+    "image_id": "JL_liaoyazhu",
+    "handbook_id": "handbook_000138",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.138_獠牙猪.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.138_獠牙猪_shiny.png"
+  },
+  {
+    "id": "pet_000242",
+    "name": "卡波",
+    "is_shiny": false,
+    "image_id": "JL_xieefangchui",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000243",
+    "name": "卡拉波斯",
+    "is_shiny": false,
+    "image_id": "JL_hunshuifangchui",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000244",
+    "name": "胆小鳗鱼",
+    "is_shiny": false,
+    "image_id": "JL_danxiaomanyu",
+    "handbook_id": "handbook_000242",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.242_胆小鳗鱼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000245",
+    "name": "闪电鳗鱼",
+    "is_shiny": false,
+    "image_id": "JL_shandianmanyu",
+    "handbook_id": "handbook_000243",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.243_闪电鳗鱼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000246",
+    "name": "大头骨龙",
+    "is_shiny": false,
+    "image_id": "JL_datougulong",
+    "handbook_id": "handbook_000289",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.289_大头骨龙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000247",
+    "name": "寂灭骨龙",
+    "is_shiny": false,
+    "image_id": "JL_jimiegulong",
+    "handbook_id": "handbook_000290",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.290_寂灭骨龙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000248",
+    "name": "绿翼鸟",
+    "is_shiny": false,
+    "image_id": "JL_lvyiniao",
+    "handbook_id": "handbook_000102",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.102_绿翼鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000249",
+    "name": "魔翼鸟",
+    "is_shiny": false,
+    "image_id": "JL_moyiniao",
+    "handbook_id": "handbook_000103",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.103_魔翼鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000250",
+    "name": "魔眷鸟",
+    "is_shiny": false,
+    "image_id": "JL_mojuanniao",
+    "handbook_id": "handbook_000104",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.104_魔眷鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000251",
+    "name": "雪绒鸟",
+    "is_shiny": false,
+    "image_id": "JL_xuerongniao_chun",
+    "handbook_id": "handbook_000018",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.018_雪绒鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000252",
+    "name": "雪绒鸟",
+    "is_shiny": false,
+    "image_id": "JL_xuerongniao_xia",
+    "handbook_id": "handbook_000018",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.018_雪绒鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000253",
+    "name": "雪绒鸟",
+    "is_shiny": false,
+    "image_id": "JL_xuerongniao_qiu",
+    "handbook_id": "handbook_000018",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.018_雪绒鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000254",
+    "name": "冬羽雀",
+    "is_shiny": false,
+    "image_id": "JL_dongyuque_chun",
+    "handbook_id": "handbook_000019",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.019_冬羽雀.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000255",
+    "name": "冬羽雀",
+    "is_shiny": false,
+    "image_id": "JL_dongyuque_xia",
+    "handbook_id": "handbook_000019",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.019_冬羽雀.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000256",
+    "name": "冬羽雀",
+    "is_shiny": false,
+    "image_id": "JL_dongyuque_qiu",
+    "handbook_id": "handbook_000019",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.019_冬羽雀.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000257",
+    "name": "岚鸟",
+    "is_shiny": false,
+    "image_id": "JL_lanniao_chun",
+    "handbook_id": "handbook_000020",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.020_岚鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000258",
+    "name": "岚鸟",
+    "is_shiny": false,
+    "image_id": "JL_lanniao_xia",
+    "handbook_id": "handbook_000020",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.020_岚鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000259",
+    "name": "岚鸟",
+    "is_shiny": false,
+    "image_id": "JL_lanniao_qiu",
+    "handbook_id": "handbook_000020",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.020_岚鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000260",
+    "name": "丢丢",
+    "is_shiny": false,
+    "image_id": "JL_diudiu_huoshan",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000261",
+    "name": "丢丢",
+    "is_shiny": false,
+    "image_id": "JL_diudiu_shamo",
+    "handbook_id": "handbook_000044",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.044_丢丢.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000262",
+    "name": "丢丢",
+    "is_shiny": false,
+    "image_id": "JL_diudiu_xueshan",
+    "handbook_id": "handbook_000044",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.044_丢丢.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000263",
+    "name": "卡卡虫",
+    "is_shiny": false,
+    "image_id": "JL_kakachong_huoshan",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000264",
+    "name": "卡卡虫",
+    "is_shiny": false,
+    "image_id": "JL_kakachong_shamo",
+    "handbook_id": "handbook_000045",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.045_卡卡虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000265",
+    "name": "卡卡虫",
+    "is_shiny": false,
+    "image_id": "JL_kakachong_xueshan",
+    "handbook_id": "handbook_000045",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.045_卡卡虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000266",
+    "name": "卡瓦重",
+    "is_shiny": false,
+    "image_id": "JL_kawachong_huoshan",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000267",
+    "name": "卡瓦重",
+    "is_shiny": false,
+    "image_id": "JL_kawachong_shamo",
+    "handbook_id": "handbook_000046",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.046_卡瓦重.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000268",
+    "name": "卡瓦重",
+    "is_shiny": false,
+    "image_id": "JL_kawachong_xueshan",
+    "handbook_id": "handbook_000046",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.046_卡瓦重.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000269",
+    "name": "蹦蹦种子",
+    "is_shiny": false,
+    "image_id": "JL_bengbengzhongzi_caiyuqiu",
+    "handbook_id": "handbook_000063",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.063_蹦蹦种子.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000270",
+    "name": "蹦蹦种子",
+    "is_shiny": false,
+    "image_id": "JL_bengbengzhongzi_duanmaoqiu",
+    "handbook_id": "handbook_000063",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.063_蹦蹦种子.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000271",
+    "name": "蹦蹦种子",
+    "is_shiny": false,
+    "image_id": "JL_bengbengzhongzi_xiangyaqiu",
+    "handbook_id": "handbook_000063",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.063_蹦蹦种子.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000272",
+    "name": "蹦蹦草",
+    "is_shiny": false,
+    "image_id": "JL_bengbengcao_caiyuqiu",
+    "handbook_id": "handbook_000064",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.064_蹦蹦草.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000273",
+    "name": "蹦蹦草",
+    "is_shiny": false,
+    "image_id": "JL_bengbengcao_duanmaoqiu",
+    "handbook_id": "handbook_000064",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.064_蹦蹦草.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000274",
+    "name": "蹦蹦草",
+    "is_shiny": false,
+    "image_id": "JL_bengbengcao_xiangyaqiu",
+    "handbook_id": "handbook_000064",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.064_蹦蹦草.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000275",
+    "name": "蹦蹦花",
+    "is_shiny": false,
+    "image_id": "JL_bengbenghua_caiyuqiu",
+    "handbook_id": "handbook_000065",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.065_蹦蹦花.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000276",
+    "name": "蹦蹦花",
+    "is_shiny": false,
+    "image_id": "JL_bengbenghua_duanmaoqiu",
+    "handbook_id": "handbook_000065",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.065_蹦蹦花.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000277",
+    "name": "蹦蹦花",
+    "is_shiny": false,
+    "image_id": "JL_bengbenghua_xiangyaqiu",
+    "handbook_id": "handbook_000065",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.065_蹦蹦花.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000278",
+    "name": "矿晶虫",
+    "is_shiny": false,
+    "image_id": "JL_kuangjingchong",
+    "handbook_id": "handbook_000039",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.039_矿晶虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000279",
+    "name": "晶石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_晶石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000280",
+    "name": "犀角鸟",
+    "is_shiny": true,
+    "image_id": "JL_xijiaoniao",
+    "handbook_id": "handbook_000310",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.310_犀角鸟.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.310_犀角鸟_shiny.png"
+  },
+  {
+    "id": "pet_000281",
+    "name": "光纤兽",
+    "is_shiny": true,
+    "image_id": "JL_guangjiaoshou",
+    "handbook_id": "handbook_000311",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.311_光纤兽.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.311_光纤兽_shiny.png"
+  },
+  {
+    "id": "pet_000282",
+    "name": "疾光千兽",
+    "is_shiny": true,
+    "image_id": "JL_jiguangqianshou",
+    "handbook_id": "handbook_000312",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.312_疾光千兽.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.312_疾光千兽_shiny.png"
+  },
+  {
+    "id": "pet_000283",
+    "name": "小鼠獭",
+    "is_shiny": false,
+    "image_id": "JL_xiaoshulan",
+    "handbook_id": "handbook_000036",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.036_小鼠獭.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000284",
+    "name": "燕尾獭",
+    "is_shiny": false,
+    "image_id": "JL_dashulan",
+    "handbook_id": "handbook_000037",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.037_燕尾獭.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000285",
+    "name": "卷胡巨獭",
+    "is_shiny": false,
+    "image_id": "JL_jushulan",
+    "handbook_id": "handbook_000038",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.038_卷胡巨獭.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000286",
+    "name": "粉星仔",
+    "is_shiny": true,
+    "image_id": "JL_fenxingzai",
+    "handbook_id": "handbook_000335",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.335_粉星仔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.335_粉星仔_shiny.png"
+  },
+  {
+    "id": "pet_000287",
+    "name": "粉耳星兔",
+    "is_shiny": true,
+    "image_id": "JL_fenerxingtu",
+    "handbook_id": "handbook_000336",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.336_粉耳星兔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.336_粉耳星兔_shiny.png"
+  },
+  {
+    "id": "pet_000288",
+    "name": "觅觅蝠",
+    "is_shiny": false,
+    "image_id": "JL_mimifu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000289",
+    "name": "翻翻蝠",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000290",
+    "name": "夜游魔",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000291",
+    "name": "海盔虫",
+    "is_shiny": false,
+    "image_id": "JL_haikuichong",
+    "handbook_id": "handbook_000076",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.076_海盔虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000292",
+    "name": "刺盔虫",
+    "is_shiny": false,
+    "image_id": "JL_cikuichong",
+    "handbook_id": "handbook_000077",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.077_刺盔虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000293",
+    "name": "千棘盔",
+    "is_shiny": false,
+    "image_id": "JL_qianjikui",
+    "handbook_id": "handbook_000078",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘盔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000294",
+    "name": "雪娃娃",
+    "is_shiny": false,
+    "image_id": "JL_xuewawa",
+    "handbook_id": "handbook_000139",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.139_雪娃娃.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000295",
+    "name": "冰封怨灵",
+    "is_shiny": false,
+    "image_id": "JL_bingfengyuanling",
+    "handbook_id": "handbook_000140",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.140_冰封怨灵.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000296",
+    "name": "雪灵",
+    "is_shiny": false,
+    "image_id": "JL_xueling",
+    "handbook_id": "handbook_000141",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.141_雪灵.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000297",
+    "name": "冰虎宝",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000298",
+    "name": "冰晶虎",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000299",
+    "name": "冰晶古齿虎",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000300",
+    "name": "乖乖鹄",
+    "is_shiny": false,
+    "image_id": "JL_huaguitianer",
+    "handbook_id": "handbook_000088",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.088_乖乖鹄.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000301",
+    "name": "蓝珠天鹅",
+    "is_shiny": false,
+    "image_id": "JL_lanzhutianer",
+    "handbook_id": "handbook_000089",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.089_蓝珠天鹅.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000302",
+    "name": "翠顶夫人",
+    "is_shiny": false,
+    "image_id": "JL_cuidingfuren",
+    "handbook_id": "handbook_000090",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.090_翠顶夫人.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000303",
+    "name": "芽眼魔",
+    "is_shiny": false,
+    "image_id": "JL_yayanmo",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000304",
+    "name": "叶眼魔",
+    "is_shiny": false,
+    "image_id": "JL_yeyanmo",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000305",
+    "name": "障眼魔",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000306",
+    "name": "红绒十字",
+    "is_shiny": true,
+    "image_id": "JL_huoguangxiunv",
+    "handbook_id": "handbook_000257",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.257_红绒十字.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.257_红绒十字_shiny.png"
+  },
+  {
+    "id": "pet_000307",
+    "name": "霹雳宝宝",
+    "is_shiny": false,
+    "image_id": "JL_pilibaobao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000308",
+    "name": "雷鸣小子",
+    "is_shiny": false,
+    "image_id": "JL_leimingwang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000309",
+    "name": "雷暴奔奔",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000310",
+    "name": "电动长颈鹿",
+    "is_shiny": false,
+    "image_id": "JL_diandongchangjinglu",
+    "handbook_id": "handbook_000226",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.226_电动长颈鹿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000311",
+    "name": "奔乐鹿",
+    "is_shiny": false,
+    "image_id": "JL_benlelu",
+    "handbook_id": "handbook_000227",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.227_奔乐鹿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000312",
+    "name": "爵士鹿",
+    "is_shiny": false,
+    "image_id": "JL_jueshilu",
+    "handbook_id": "handbook_000228",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.228_爵士鹿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000313",
+    "name": "嘟嘟煲",
+    "is_shiny": true,
+    "image_id": "JL_duudbao",
+    "handbook_id": "handbook_000052",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.052_嘟嘟煲.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.052_嘟嘟煲_shiny.png"
+  },
+  {
+    "id": "pet_000314",
+    "name": "嘟嘟锅",
+    "is_shiny": true,
+    "image_id": "JL_duudguo",
+    "handbook_id": "handbook_000053",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.053_嘟嘟锅.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.053_嘟嘟锅_shiny.png"
+  },
+  {
+    "id": "pet_000315",
+    "name": "幽星光",
+    "is_shiny": false,
+    "image_id": "JL_youxingguang",
+    "handbook_id": "handbook_000345",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.345_幽星光.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000316",
+    "name": "曜星光",
+    "is_shiny": false,
+    "image_id": "JL_yaoxingguang",
+    "handbook_id": "handbook_000346",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.346_曜星光.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000317",
+    "name": "暮星辰",
+    "is_shiny": false,
+    "image_id": "JL_muxingchen",
+    "handbook_id": "handbook_000347",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.347_暮星辰.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000318",
+    "name": "春花兔",
+    "is_shiny": false,
+    "image_id": "JL_chuntudalao",
+    "handbook_id": "handbook_000344",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.344_春花兔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000319",
+    "name": "逗逗",
+    "is_shiny": false,
+    "image_id": "JL_doudou",
+    "handbook_id": "handbook_000198",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.198_逗逗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000320",
+    "name": "气球猫",
+    "is_shiny": false,
+    "image_id": "JL_qiqiumao",
+    "handbook_id": "handbook_000199",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.199_气球猫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000321",
+    "name": "梦想三三",
+    "is_shiny": false,
+    "image_id": "JL_qimengmi",
+    "handbook_id": "handbook_000200",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.200_梦想三三.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000322",
+    "name": "旋叶虫",
+    "is_shiny": false,
+    "image_id": "JL_xuanyanchong",
+    "handbook_id": "handbook_000118",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.118_旋叶虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000323",
+    "name": "风滚暮虫",
+    "is_shiny": false,
+    "image_id": "JL_fenggunmuchong",
+    "handbook_id": "handbook_000120",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.120_风滚暮虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000324",
+    "name": "菇菇丁",
+    "is_shiny": false,
+    "image_id": "JL_guguding",
+    "handbook_id": "handbook_000174",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.174_菇菇丁.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000325",
+    "name": "多菇丁",
+    "is_shiny": false,
+    "image_id": "JL_duoguding",
+    "handbook_id": "handbook_000175",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.175_多菇丁.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000326",
+    "name": "九幽菇",
+    "is_shiny": false,
+    "image_id": "JL_jiuyougu",
+    "handbook_id": "handbook_000176",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.176_九幽菇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000327",
+    "name": "深蓝鲸",
+    "is_shiny": false,
+    "image_id": "JL_shenlanjing",
+    "handbook_id": "handbook_000273",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.273_深蓝鲸.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000328",
+    "name": "双灯鱼",
+    "is_shiny": true,
+    "image_id": "JL_shungdengyu",
+    "handbook_id": "handbook_000320",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.320_双灯鱼.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.320_双灯鱼_shiny.png"
+  },
+  {
+    "id": "pet_000329",
+    "name": "利灯鱼",
+    "is_shiny": true,
+    "image_id": "JL_lidengyu",
+    "handbook_id": "handbook_000321",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.321_利灯鱼.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.321_利灯鱼_shiny.png"
+  },
+  {
+    "id": "pet_000330",
+    "name": "豆丁鱼",
+    "is_shiny": false,
+    "image_id": "JL_doudingyu",
+    "handbook_id": "handbook_000239",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.239_豆丁鱼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000331",
+    "name": "快鳍鱼",
+    "is_shiny": false,
+    "image_id": "JL_kuaiqiyu",
+    "handbook_id": "handbook_000240",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.240_快鳍鱼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000332",
+    "name": "龙鱼",
+    "is_shiny": false,
+    "image_id": "JL_yulong",
+    "handbook_id": "handbook_000241",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.241_龙鱼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000333",
+    "name": "凡雀",
+    "is_shiny": false,
+    "image_id": "JL_fanque",
+    "handbook_id": "handbook_000351",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.351_凡雀.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000334",
+    "name": "紫翎鹰",
+    "is_shiny": false,
+    "image_id": "JL_zilingying",
+    "handbook_id": "handbook_000352",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.352_紫翎鹰.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000335",
+    "name": "凡鹰",
+    "is_shiny": false,
+    "image_id": "JL_fanying",
+    "handbook_id": "handbook_000353",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.353_凡鹰.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000336",
+    "name": "里奥",
+    "is_shiny": false,
+    "image_id": "JL_liao",
+    "handbook_id": "handbook_000150",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.150_里奥.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000337",
+    "name": "灵羽勇士",
+    "is_shiny": false,
+    "image_id": "JL_lingyuyongshi",
+    "handbook_id": "handbook_000151",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.151_灵羽勇士.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000338",
+    "name": "圣羽翼王",
+    "is_shiny": false,
+    "image_id": "JL_shengyuyiwang",
+    "handbook_id": "handbook_000152",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.152_圣羽翼王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000339",
+    "name": "星尘虫",
+    "is_shiny": false,
+    "image_id": "JL_xingchenchong",
+    "handbook_id": "handbook_000317",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.317_星尘虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000340",
+    "name": "落星虫",
+    "is_shiny": false,
+    "image_id": "JL_luoxingchong",
+    "handbook_id": "handbook_000318",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.318_落星虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000341",
+    "name": "陨星虫",
+    "is_shiny": false,
+    "image_id": "JL_yunxingchong",
+    "handbook_id": "handbook_000319",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.319_陨星虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000342",
+    "name": "幽冥眼",
+    "is_shiny": false,
+    "image_id": "JL_youmingzhiyan",
+    "handbook_id": "handbook_000056",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.056_幽冥眼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000343",
+    "name": "缇塔",
+    "is_shiny": false,
+    "image_id": "JL_tita",
+    "handbook_id": "handbook_000229",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.229_缇塔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000344",
+    "name": "声波缇塔",
+    "is_shiny": false,
+    "image_id": "JL_shengbotita",
+    "handbook_id": "handbook_000230",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.230_声波缇塔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000345",
+    "name": "齿轮小子",
+    "is_shiny": false,
+    "image_id": "JL_chilunxiaozi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000346",
+    "name": "机甲小子",
+    "is_shiny": false,
+    "image_id": "JL_jijiaxiaozi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000347",
+    "name": "权杖-Ⅱ",
+    "is_shiny": false,
+    "image_id": "JL_quanzhagn1",
+    "handbook_id": "handbook_000145",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.145_权杖-Ⅱ.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000348",
+    "name": "权杖-V",
+    "is_shiny": false,
+    "image_id": "JL_quanzhagn2",
+    "handbook_id": "handbook_000146",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.146_权杖-V.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000349",
+    "name": "伊兰亚龙",
+    "is_shiny": false,
+    "image_id": "JL_yinlanyalong",
+    "handbook_id": "handbook_000204",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.204_伊兰亚龙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000350",
+    "name": "格斗小五",
+    "is_shiny": false,
+    "image_id": "JL_gedouxiaowu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000351",
+    "name": "格斗小六",
+    "is_shiny": false,
+    "image_id": "JL_gedouxiaoliu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000352",
+    "name": "格斗小八",
+    "is_shiny": false,
+    "image_id": "JL_gedouxiaoba",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000353",
+    "name": "厉毒小萝",
+    "is_shiny": false,
+    "image_id": "JL_lihaixiaoluo",
+    "handbook_id": "handbook_000291",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.291_厉毒小萝.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000354",
+    "name": "厉毒修萝",
+    "is_shiny": false,
+    "image_id": "JL_lihaixiuluo",
+    "handbook_id": "handbook_000292",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.292_厉毒修萝.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000355",
+    "name": "空灵兽",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000356",
+    "name": "空灵斗士",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000357",
+    "name": "麦香驼",
+    "is_shiny": false,
+    "image_id": "JL_maixiangtuo",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000358",
+    "name": "海枝枝",
+    "is_shiny": false,
+    "image_id": "JL_haizhizhi_bilanshanhu",
+    "handbook_id": "handbook_000220",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.220_海枝枝.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000359",
+    "name": "海枝枝",
+    "is_shiny": false,
+    "image_id": "JL_haizhizhi_xinghuangbaihe",
+    "handbook_id": "handbook_000220",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.220_海枝枝.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000360",
+    "name": "海枝枝",
+    "is_shiny": false,
+    "image_id": "JL_haizhizhi_yanghongshading",
+    "handbook_id": "handbook_000220",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.220_海枝枝.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000361",
+    "name": "海枝枝",
+    "is_shiny": false,
+    "image_id": "JL_haizhizhi_cuilvlunbu",
+    "handbook_id": "handbook_000220",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.220_海枝枝.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000362",
+    "name": "小电企鹅",
+    "is_shiny": false,
+    "image_id": "JL_xiaodianqie",
+    "handbook_id": "handbook_000132",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.132_小电企鹅.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000363",
+    "name": "电企鹅",
+    "is_shiny": false,
+    "image_id": "JL_dianqie",
+    "handbook_id": "handbook_000133",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.133_电企鹅.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000364",
+    "name": "柴渣虫",
+    "is_shiny": true,
+    "image_id": "JL_chaizhachong",
+    "handbook_id": "handbook_000325",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.325_柴渣虫.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.325_柴渣虫_shiny.png"
+  },
+  {
+    "id": "pet_000365",
+    "name": "燃薪虫",
+    "is_shiny": true,
+    "image_id": "JL_ranxinchong",
+    "handbook_id": "handbook_000326",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.326_燃薪虫.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.326_燃薪虫_shiny.png"
+  },
+  {
+    "id": "pet_000366",
+    "name": "梦游",
+    "is_shiny": false,
+    "image_id": "JL_menhyou",
+    "handbook_id": "handbook_000057",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.057_梦游.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000367",
+    "name": "梦悠悠",
+    "is_shiny": false,
+    "image_id": "JL_mengyouyou",
+    "handbook_id": "handbook_000058",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.058_梦悠悠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000368",
+    "name": "梦游",
+    "is_shiny": false,
+    "image_id": "JL_mengyou_pink",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000369",
+    "name": "梦悠悠",
+    "is_shiny": false,
+    "image_id": "JL_mengyouyou_pink",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000370",
+    "name": "小星光",
+    "is_shiny": false,
+    "image_id": "JL_xiaoxingguang_yueguang",
+    "handbook_id": "handbook_000080",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.080_小星光.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000371",
+    "name": "星光狮",
+    "is_shiny": false,
+    "image_id": "JL_xingguangshi_yueguang",
+    "handbook_id": "handbook_000081",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.081_星光狮.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000372",
+    "name": "噼啪鸟",
+    "is_shiny": false,
+    "image_id": "JL_pipaniao",
+    "handbook_id": "handbook_000272",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.272_噼啪鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000373",
+    "name": "雪毛角羚牛",
+    "is_shiny": false,
+    "image_id": "JL_xuemaojiaolinyang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000374",
+    "name": "雪毛角羚牛",
+    "is_shiny": false,
+    "image_id": "JL_xuemaojiaolinyang_wanjiao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000375",
+    "name": "雪毛角羚牛",
+    "is_shiny": false,
+    "image_id": "JL_xuemaojiaolinyang_huanjiao",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000376",
+    "name": "晶石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_yidi3",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_晶石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000377",
+    "name": "晶石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_yidi5",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_晶石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000378",
+    "name": "晶石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_yidi1",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_晶石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000379",
+    "name": "晶石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_yidi2",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_晶石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000380",
+    "name": "鸭吉吉",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_jijiya",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000381",
+    "name": "鸭吉吉",
+    "is_shiny": false,
+    "image_id": "JL_dengyidengya",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000382",
+    "name": "地鼠",
+    "is_shiny": false,
+    "image_id": "JL_dishu_xushui",
+    "handbook_id": "handbook_000277",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.277_地鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000383",
+    "name": "遁鼠",
+    "is_shiny": false,
+    "image_id": "JL_dunshu_xushui",
+    "handbook_id": "handbook_000278",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.278_遁鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000384",
+    "name": "遁地鼠",
+    "is_shiny": false,
+    "image_id": "JL_dundishu_xushui",
+    "handbook_id": "handbook_000279",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.279_遁地鼠.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000385",
+    "name": "月牙雪熊",
+    "is_shiny": true,
+    "image_id": "JL_yueyaxuexiong",
+    "handbook_id": "handbook_000322",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.322_月牙雪熊.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.322_月牙雪熊_shiny.png"
+  },
+  {
+    "id": "pet_000386",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding_yingtaocaomei",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000387",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding_yingtaomocha",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000388",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding_lanmeiqiaokeli",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000389",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding_lanmeicaomei",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000390",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding_lanmeimocha",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000391",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding_yangtaoqiaokeli",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000392",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding_yangtaocaomei",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000393",
+    "name": "圣代甜甜",
+    "is_shiny": false,
+    "image_id": "JL_shuangqiudingding_yangtaomocha",
+    "handbook_id": "handbook_000236",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.236_圣代甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000394",
+    "name": "星云旅者",
+    "is_shiny": false,
+    "image_id": "JL_xingyunlvzhe",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000395",
+    "name": "小狮鹫",
+    "is_shiny": false,
+    "image_id": "JL_xiaoshijiu_gaoshan",
+    "handbook_id": "handbook_000165",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.165_小狮鹫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000396",
+    "name": "神圣狮鹫",
+    "is_shiny": false,
+    "image_id": "JL_shenshengshijiu_gaoshan",
+    "handbook_id": "handbook_000166",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.166_神圣狮鹫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000397",
+    "name": "皇家狮鹫",
+    "is_shiny": false,
+    "image_id": "JL_huangjiashijiu_gaoshan",
+    "handbook_id": "handbook_000167",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.167_皇家狮鹫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000398",
+    "name": "化蝶",
+    "is_shiny": false,
+    "image_id": "JL_huadie_youmingzhiyan",
+    "handbook_id": "handbook_000034",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.034_化蝶.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000399",
+    "name": "化蝶",
+    "is_shiny": false,
+    "image_id": "JL_huadie_miaomiao",
+    "handbook_id": "handbook_000034",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.034_化蝶.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000400",
+    "name": "化蝶",
+    "is_shiny": false,
+    "image_id": "JL_huadie_qilihua",
+    "handbook_id": "handbook_000034",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.034_化蝶.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000401",
+    "name": "布瓜蝌",
+    "is_shiny": false,
+    "image_id": "JL_buguake",
+    "handbook_id": "handbook_000338",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.338_布瓜蝌.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000402",
+    "name": "上岸蛙",
+    "is_shiny": false,
+    "image_id": "JL_shanganwa",
+    "handbook_id": "handbook_000339",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.339_上岸蛙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000403",
+    "name": "海盔虫",
+    "is_shiny": false,
+    "image_id": "JL_haikuichong_yidi",
+    "handbook_id": "handbook_000076",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.076_海盔虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000404",
+    "name": "刺盔虫",
+    "is_shiny": false,
+    "image_id": "JL_cikuichong_yidi",
+    "handbook_id": "handbook_000077",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.077_刺盔虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000405",
+    "name": "千棘盔",
+    "is_shiny": false,
+    "image_id": "JL_qianjikui_yidi",
+    "handbook_id": "handbook_000078",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘盔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000406",
+    "name": "香草甜甜",
+    "is_shiny": false,
+    "image_id": "JL_dingding_yangtao",
+    "handbook_id": "handbook_000235",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.235_香草甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000407",
+    "name": "香草甜甜",
+    "is_shiny": false,
+    "image_id": "JL_dingding_lanmei",
+    "handbook_id": "handbook_000235",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.235_香草甜甜.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000408",
+    "name": "圣羽翼王",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000409",
+    "name": "暗影灵面",
+    "is_shiny": false,
+    "image_id": "JL_youlinglian_biyan",
+    "handbook_id": "handbook_000055",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.055_暗影灵面.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000410",
+    "name": "幽冥眼",
+    "is_shiny": false,
+    "image_id": "JL_youmingzhiyan_biyan",
+    "handbook_id": "handbook_000056",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.056_幽冥眼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000411",
+    "name": "蓬叶虫",
+    "is_shiny": false,
+    "image_id": "JL_pengyechong",
+    "handbook_id": "handbook_000119",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.119_蓬叶虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000412",
+    "name": "螺旋帕帕",
+    "is_shiny": false,
+    "image_id": "JL_luoxuanpapa",
+    "handbook_id": "handbook_000261",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.261_螺旋帕帕.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000413",
+    "name": "落陨星兔",
+    "is_shiny": true,
+    "image_id": "JL_luoyunxingtu",
+    "handbook_id": "handbook_000337",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.337_落陨星兔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.337_落陨星兔_shiny.png"
+  },
+  {
+    "id": "pet_000414",
+    "name": "晶石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_yidi4",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_晶石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000415",
+    "name": "小丑豆豆",
+    "is_shiny": true,
+    "image_id": "JL_xiaochoudoudou",
+    "handbook_id": "handbook_000362",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.362_小丑豆豆.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.362_小丑豆豆_shiny.png"
+  },
+  {
+    "id": "pet_000416",
+    "name": "小丑兔",
+    "is_shiny": true,
+    "image_id": "JL_xiaochoutu",
+    "handbook_id": "handbook_000363",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.363_小丑兔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.363_小丑兔_shiny.png"
+  },
+  {
+    "id": "pet_000417",
+    "name": "小丑公爵",
+    "is_shiny": true,
+    "image_id": "JL_xiaochougongjue",
+    "handbook_id": "handbook_000364",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.364_小丑公爵.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.364_小丑公爵_shiny.png"
+  },
+  {
+    "id": "pet_000418",
+    "name": "吸泥鸥",
+    "is_shiny": false,
+    "image_id": "JL_xiniou",
+    "handbook_id": "handbook_000287",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.287_吸泥鸥.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000419",
+    "name": "泥吼牙",
+    "is_shiny": false,
+    "image_id": "JL_nihouya",
+    "handbook_id": "handbook_000288",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.288_泥吼牙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000420",
+    "name": "兽花蕾",
+    "is_shiny": false,
+    "image_id": "JL_shouhualei",
+    "handbook_id": "handbook_000059",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.059_兽花蕾.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000421",
+    "name": "鸭吉吉",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_ranleya",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000422",
+    "name": "旋叶虫",
+    "is_shiny": false,
+    "image_id": "JL_xuanyechong_yidi",
+    "handbook_id": "handbook_000118",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.118_旋叶虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000423",
+    "name": "蓬叶虫",
+    "is_shiny": false,
+    "image_id": "JL_pengyechong_yidi",
+    "handbook_id": "handbook_000119",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.119_蓬叶虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000424",
+    "name": "风滚暮虫",
+    "is_shiny": false,
+    "image_id": "JL_fengguanmuchong_yidi",
+    "handbook_id": "handbook_000120",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.120_风滚暮虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000425",
+    "name": "公平鸽",
+    "is_shiny": true,
+    "image_id": "JL_gongpingge",
+    "handbook_id": "handbook_000162",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.162_公平鸽.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.162_公平鸽_shiny.png"
+  },
+  {
+    "id": "pet_000426",
+    "name": "石肤蜥",
+    "is_shiny": false,
+    "image_id": "JL_shifuxi_yidi",
+    "handbook_id": "handbook_000024",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.024_石肤蜥.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000427",
+    "name": "石刺蜥",
+    "is_shiny": false,
+    "image_id": "JL_shicixi_yidi",
+    "handbook_id": "handbook_000025",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.025_石刺蜥.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000428",
+    "name": "石冠王蜥",
+    "is_shiny": false,
+    "image_id": "JL_shiguanwangxi_yidi",
+    "handbook_id": "handbook_000026",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.026_石冠王蜥.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000429",
+    "name": "线球鼠",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000430",
+    "name": "慈母鼠",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000431",
+    "name": "夜回犀牛",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000432",
+    "name": "花怨鳗",
+    "is_shiny": false,
+    "image_id": "JL_huayuanman",
+    "handbook_id": "handbook_000201",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.201_花怨鳗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000433",
+    "name": "鳗尾兽",
+    "is_shiny": false,
+    "image_id": "JL_manweishou",
+    "handbook_id": "handbook_000202",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.202_鳗尾兽.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000434",
+    "name": "波波螺",
+    "is_shiny": false,
+    "image_id": "JL_boboluo",
+    "handbook_id": "handbook_000171",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.171_波波螺.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000435",
+    "name": "消波螺",
+    "is_shiny": false,
+    "image_id": "JL_xiaoboluo",
+    "handbook_id": "handbook_000172",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.172_消波螺.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000436",
+    "name": "嗜波螺",
+    "is_shiny": false,
+    "image_id": "JL_shiboluo",
+    "handbook_id": "handbook_000173",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.173_嗜波螺.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000437",
+    "name": "波波螺",
+    "is_shiny": false,
+    "image_id": "JL_boboluo_yidi",
+    "handbook_id": "handbook_000171",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.171_波波螺.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000438",
+    "name": "消波螺",
+    "is_shiny": false,
+    "image_id": "JL_xiaoboluo_yidi",
+    "handbook_id": "handbook_000172",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.172_消波螺.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000439",
+    "name": "嗜波螺",
+    "is_shiny": false,
+    "image_id": "JL_shiboluo_yidi",
+    "handbook_id": "handbook_000173",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.173_嗜波螺.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000440",
+    "name": "圣水迪莫",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000441",
+    "name": "圣火迪莫",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000442",
+    "name": "板板壳",
+    "is_shiny": false,
+    "image_id": "JL_banbanke_tuipi",
+    "handbook_id": "handbook_000012",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.012_板板壳.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000443",
+    "name": "咔咔壳",
+    "is_shiny": false,
+    "image_id": "JL_kakake_tuipi",
+    "handbook_id": "handbook_000013",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.013_咔咔壳.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000444",
+    "name": "水泡壳",
+    "is_shiny": false,
+    "image_id": "JL_shuipaoke_tuipi",
+    "handbook_id": "handbook_000014",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.014_水泡壳.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000445",
+    "name": "里拉鳐",
+    "is_shiny": false,
+    "image_id": "JL_lilayao",
+    "handbook_id": "handbook_000219",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.219_里拉鳐.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000446",
+    "name": "水星尾",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000447",
+    "name": "水星龙弦",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000448",
+    "name": "抹茶布丁",
+    "is_shiny": false,
+    "image_id": "JL_mochabuding",
+    "handbook_id": "handbook_000314",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.314_抹茶布丁.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000449",
+    "name": "椰浆布丁",
+    "is_shiny": false,
+    "image_id": "JL_yejiangbuding",
+    "handbook_id": "handbook_000315",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.315_椰浆布丁.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000450",
+    "name": "熔岩布丁",
+    "is_shiny": false,
+    "image_id": "JL_rongyanbuding",
+    "handbook_id": "handbook_000316",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.316_熔岩布丁.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000451",
+    "name": "号儿鱼",
+    "is_shiny": false,
+    "image_id": "JL_haoeryu",
+    "handbook_id": "handbook_000183",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.183_号儿鱼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000452",
+    "name": "圆号鱼",
+    "is_shiny": false,
+    "image_id": "JL_diyinhaoyu",
+    "handbook_id": "handbook_000184",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.184_圆号鱼.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000453",
+    "name": "小雪人",
+    "is_shiny": true,
+    "image_id": "JL_xiaoxueren",
+    "handbook_id": "handbook_000354",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.354_小雪人.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.354_小雪人_shiny.png"
+  },
+  {
+    "id": "pet_000454",
+    "name": "雪怪",
+    "is_shiny": true,
+    "image_id": "JL_xueguai",
+    "handbook_id": "handbook_000355",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.355_雪怪.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.355_雪怪_shiny.png"
+  },
+  {
+    "id": "pet_000455",
+    "name": "雪绒鸟",
+    "is_shiny": false,
+    "image_id": "JL_xuerongniao_dong",
+    "handbook_id": "handbook_000018",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.018_雪绒鸟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000456",
+    "name": "斑斑",
+    "is_shiny": false,
+    "image_id": "JL_banban",
+    "handbook_id": "handbook_000177",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.177_斑斑.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000457",
+    "name": "斑枭",
+    "is_shiny": false,
+    "image_id": "JL_banxiao",
+    "handbook_id": "handbook_000178",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.178_斑枭.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000458",
+    "name": "乌达",
+    "is_shiny": false,
+    "image_id": "JL_wuda",
+    "handbook_id": "handbook_000258",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.258_乌达.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000459",
+    "name": "迷你乌",
+    "is_shiny": false,
+    "image_id": "JL_miniwu",
+    "handbook_id": "handbook_000259",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.259_迷你乌.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000460",
+    "name": "乌拉塔",
+    "is_shiny": false,
+    "image_id": "JL_wulata",
+    "handbook_id": "handbook_000260",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.260_乌拉塔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000461",
+    "name": "乌达",
+    "is_shiny": false,
+    "image_id": "JL_wuda_yidi",
+    "handbook_id": "handbook_000258",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.258_乌达.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000462",
+    "name": "迷你乌",
+    "is_shiny": false,
+    "image_id": "JL_miniwu_yidi",
+    "handbook_id": "handbook_000259",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.259_迷你乌.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000463",
+    "name": "乌拉塔",
+    "is_shiny": false,
+    "image_id": "JL_wulata_yidi",
+    "handbook_id": "handbook_000260",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.260_乌拉塔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000464",
+    "name": "多灵",
+    "is_shiny": false,
+    "image_id": "JL_duoling",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000465",
+    "name": "多灵主",
+    "is_shiny": false,
+    "image_id": "JL_duolingzhu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000466",
+    "name": "圣剑侍从",
+    "is_shiny": false,
+    "image_id": "JL_shengjianshicong",
+    "handbook_id": "handbook_000285",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.285_圣剑侍从.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000467",
+    "name": "圣剑-X",
+    "is_shiny": false,
+    "image_id": "JL_shengjianX",
+    "handbook_id": "handbook_000286",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.286_圣剑-X.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000468",
+    "name": "帕帕斯卡",
+    "is_shiny": false,
+    "image_id": "JL_papasika",
+    "handbook_id": "handbook_000262",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.262_帕帕斯卡.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000469",
+    "name": "小银翼龙",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000470",
+    "name": "银翼龙",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000471",
+    "name": "棋棋",
+    "is_shiny": false,
+    "image_id": "JL_qiqi",
+    "handbook_id": "handbook_000188",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.188_棋棋.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000472",
+    "name": "棋骑士",
+    "is_shiny": false,
+    "image_id": "JL_qiqishi",
+    "handbook_id": "handbook_000189",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.189_棋骑士.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000473",
+    "name": "棋绮后",
+    "is_shiny": false,
+    "image_id": "JL_qiqihou",
+    "handbook_id": "handbook_000192",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.192_棋绮后.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000474",
+    "name": "棋齐垒",
+    "is_shiny": false,
+    "image_id": "JL_qiqilei",
+    "handbook_id": "handbook_000190",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.190_棋齐垒.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000475",
+    "name": "棋祈督",
+    "is_shiny": false,
+    "image_id": "JL_qiqidu",
+    "handbook_id": "handbook_000191",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.191_棋祈督.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000476",
+    "name": "棋棋",
+    "is_shiny": false,
+    "image_id": "JL_qiqi_yidi",
+    "handbook_id": "handbook_000188",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.188_棋棋.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000477",
+    "name": "棋骑士",
+    "is_shiny": false,
+    "image_id": "JL_qiqishi_yidi",
+    "handbook_id": "handbook_000189",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.189_棋骑士.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000478",
+    "name": "棋绮后",
+    "is_shiny": false,
+    "image_id": "JL_qiqihou_yidi",
+    "handbook_id": "handbook_000192",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.192_棋绮后.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000479",
+    "name": "棋齐垒",
+    "is_shiny": false,
+    "image_id": "JL_qiqilei_yidi",
+    "handbook_id": "handbook_000190",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.190_棋齐垒.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000480",
+    "name": "棋祈督",
+    "is_shiny": false,
+    "image_id": "JL_qiqidu_yidi",
+    "handbook_id": "handbook_000191",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.191_棋祈督.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000481",
+    "name": "乌咩",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000482",
+    "name": "乌角驮驮",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000483",
+    "name": "堇楹苞",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000484",
+    "name": "蔓羽兽",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000485",
+    "name": "厉毒鸩兽",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000486",
+    "name": "栗鼠",
+    "is_shiny": false,
+    "image_id": "JL_lishu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000487",
+    "name": "壳栗丝鼠",
+    "is_shiny": false,
+    "image_id": "JL_kelisishu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000488",
+    "name": "落陨星兔",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000489",
+    "name": "小黑猫",
+    "is_shiny": false,
+    "image_id": "JL_xiaoheimao",
+    "handbook_id": "handbook_000121",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.121_小黑猫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000490",
+    "name": "黑猫巫师",
+    "is_shiny": false,
+    "image_id": "JL_heimaowushi",
+    "handbook_id": "handbook_000122",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.122_黑猫巫师.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000491",
+    "name": "河马巴斯",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000492",
+    "name": "黑羽夫人",
+    "is_shiny": false,
+    "image_id": "JL_heiyufuren",
+    "handbook_id": "handbook_000091",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.091_黑羽夫人.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000493",
+    "name": "爆焰仔",
+    "is_shiny": true,
+    "image_id": "JL_baoyanzai",
+    "handbook_id": "handbook_000356",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.356_爆焰仔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.356_爆焰仔_shiny.png"
+  },
+  {
+    "id": "pet_000494",
+    "name": "爆焰喷喷",
+    "is_shiny": true,
+    "image_id": "JL_baoyanpengpeng",
+    "handbook_id": "handbook_000357",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.357_爆焰喷喷.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.357_爆焰喷喷_shiny.png"
+  },
+  {
+    "id": "pet_000495",
+    "name": "热团团",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000496",
+    "name": "焰米龙",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000497",
+    "name": "圣凯布米龙",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000498",
+    "name": "墨鱿士",
+    "is_shiny": false,
+    "image_id": "JL_moyoushi",
+    "handbook_id": "handbook_000280",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.280_墨鱿士.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000499",
+    "name": "混乱鱿彩",
+    "is_shiny": false,
+    "image_id": "JL_hunluanyoucai",
+    "handbook_id": "handbook_000281",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.281_混乱鱿彩.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000500",
+    "name": "秩序鱿墨",
+    "is_shiny": false,
+    "image_id": "JL_zhixumoyu",
+    "handbook_id": "handbook_000282",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.282_秩序鱿墨.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000501",
+    "name": "利刺毒蝎",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000502",
+    "name": "剧毒魔蝎",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000503",
+    "name": "刺轮砣",
+    "is_shiny": false,
+    "image_id": "JL_ciluntuo_yidi",
+    "handbook_id": "handbook_000237",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.237_刺轮砣.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000504",
+    "name": "月亮砣",
+    "is_shiny": false,
+    "image_id": "JL_yueliangtuo_yidi",
+    "handbook_id": "handbook_000238",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.238_月亮砣.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000505",
+    "name": "刺轮砣",
+    "is_shiny": false,
+    "image_id": "JL_ciluntuo",
+    "handbook_id": "handbook_000237",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.237_刺轮砣.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000506",
+    "name": "月亮砣",
+    "is_shiny": false,
+    "image_id": "JL_yueliangtuo",
+    "handbook_id": "handbook_000238",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.238_月亮砣.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000507",
+    "name": "玳龟",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000508",
+    "name": "玳塔",
+    "is_shiny": false,
+    "image_id": "",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000509",
+    "name": "松仔",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "handbook_000153",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.153_松仔.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000510",
+    "name": "松叶羊",
+    "is_shiny": false,
+    "image_id": "JL_yesongyang",
+    "handbook_id": "handbook_000154",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.154_松叶羊.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000511",
+    "name": "针叶巡林",
+    "is_shiny": false,
+    "image_id": "JL_zhenyexunlin",
+    "handbook_id": "handbook_000155",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.155_针叶巡林.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000512",
+    "name": "水滴蛇",
+    "is_shiny": false,
+    "image_id": "JL_shuidishe",
+    "handbook_id": "handbook_000159",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.159_水滴蛇.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000513",
+    "name": "水蛇锁",
+    "is_shiny": false,
+    "image_id": "JL_shuishesuo",
+    "handbook_id": "handbook_000160",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.160_水蛇锁.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000514",
+    "name": "游蛇魔使",
+    "is_shiny": false,
+    "image_id": "JL_youshemoshi",
+    "handbook_id": "handbook_000161",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.161_游蛇魔使.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000515",
+    "name": "小勇狮",
+    "is_shiny": false,
+    "image_id": "JL_xiaoyongshi",
+    "handbook_id": "handbook_000156",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.156_小勇狮.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000516",
+    "name": "炽焰狮",
+    "is_shiny": false,
+    "image_id": "JL_chiyanshi",
+    "handbook_id": "handbook_000157",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.157_炽焰狮.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000517",
+    "name": "炽心勇狮",
+    "is_shiny": false,
+    "image_id": "JL_chixinyongshi",
+    "handbook_id": "handbook_000158",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.158_炽心勇狮.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000518",
+    "name": "毛头小蛛",
+    "is_shiny": false,
+    "image_id": "JL_maotouxiaozhu",
+    "handbook_id": "handbook_000296",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.296_毛头小蛛.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000519",
+    "name": "捕尘长绒",
+    "is_shiny": false,
+    "image_id": "JL_buchenchangrong",
+    "handbook_id": "handbook_000297",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.297_捕尘长绒.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000520",
+    "name": "食尘短绒",
+    "is_shiny": false,
+    "image_id": "JL_shichenduanrong",
+    "handbook_id": "handbook_000298",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.298_食尘短绒.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000521",
+    "name": "画精灵",
+    "is_shiny": false,
+    "image_id": "JL_huajingling",
+    "handbook_id": "handbook_000299",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.299_画精灵.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000522",
+    "name": "画像守护",
+    "is_shiny": false,
+    "image_id": "JL_huaxiangshouhu",
+    "handbook_id": "handbook_000300",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.300_画像守护.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000523",
+    "name": "画间法师手",
+    "is_shiny": false,
+    "image_id": "JL_huajianfashishou",
+    "handbook_id": "handbook_000301",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.301_画间法师手.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000524",
+    "name": "画间沉铁兽",
+    "is_shiny": false,
+    "image_id": "JL_huajianchentieshou",
+    "handbook_id": "handbook_000302",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.302_画间沉铁兽.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000525",
+    "name": "书魔虫",
+    "is_shiny": false,
+    "image_id": "JL_shumochong",
+    "handbook_id": "handbook_000303",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.303_书魔虫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000526",
+    "name": "书卷守护",
+    "is_shiny": false,
+    "image_id": "JL_shujuanshouhu",
+    "handbook_id": "handbook_000304",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.304_书卷守护.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000527",
+    "name": "古卷执政官",
+    "is_shiny": false,
+    "image_id": "JL_gujuanzhizhengguan",
+    "handbook_id": "handbook_000305",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.305_古卷执政官.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000528",
+    "name": "古卷匣魔像",
+    "is_shiny": false,
+    "image_id": "JL_gujuanxiamoxiang",
+    "handbook_id": "handbook_000306",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.306_古卷匣魔像.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000529",
+    "name": "嗜光嗡嗡",
+    "is_shiny": true,
+    "image_id": "JL_shiguangwengweng",
+    "handbook_id": "handbook_000323",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.323_嗜光嗡嗡.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.323_嗜光嗡嗡_shiny.png"
+  },
+  {
+    "id": "pet_000530",
+    "name": "窃光蚊",
+    "is_shiny": true,
+    "image_id": "JL_qieguangwen",
+    "handbook_id": "handbook_000324",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.324_窃光蚊.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.324_窃光蚊_shiny.png"
+  },
+  {
+    "id": "pet_000531",
+    "name": "不咕钟",
+    "is_shiny": false,
+    "image_id": "JL_buguzhong",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000532",
+    "name": "溯源钟",
+    "is_shiny": false,
+    "image_id": "JL_suyuanzhong",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000533",
+    "name": "小箱怪",
+    "is_shiny": false,
+    "image_id": "JL_xiaoxiangguai",
+    "handbook_id": "handbook_000210",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.210_小箱怪.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000534",
+    "name": "迷迷箱怪",
+    "is_shiny": false,
+    "image_id": "JL_mimixiangguai",
+    "handbook_id": "handbook_000211",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.211_迷迷箱怪.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000535",
+    "name": "学院呱呱",
+    "is_shiny": false,
+    "image_id": "JL_xueyuanguagua",
+    "handbook_id": "handbook_000375",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.375_学院呱呱.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000536",
+    "name": "古钟蛇",
+    "is_shiny": false,
+    "image_id": "JL_guzhongshe_yidi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000537",
+    "name": "寒音蛇",
+    "is_shiny": false,
+    "image_id": "JL_hanyinshe_yidi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000538",
+    "name": "冥古龙",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000539",
+    "name": "海豚宝",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000540",
+    "name": "泡泡豚",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000541",
+    "name": "海豚勇士",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000542",
+    "name": "加油海葵",
+    "is_shiny": true,
+    "image_id": "JL_jiayouhaikui",
+    "handbook_id": "handbook_000360",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.360_加油海葵.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.360_加油海葵_shiny.png"
+  },
+  {
+    "id": "pet_000543",
+    "name": "加油蟹",
+    "is_shiny": true,
+    "image_id": "JL_jiayouxie",
+    "handbook_id": "handbook_000361",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.361_加油蟹.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.361_加油蟹_shiny.png"
+  },
+  {
+    "id": "pet_000544",
+    "name": "烟花团",
+    "is_shiny": true,
+    "image_id": "JL_yanhuatuan",
+    "handbook_id": "handbook_000365",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.365_烟花团.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.365_烟花团_shiny.png"
+  },
+  {
+    "id": "pet_000545",
+    "name": "烟花伯爵",
+    "is_shiny": true,
+    "image_id": "JL_yanhuabojue",
+    "handbook_id": "handbook_000366",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.366_烟花伯爵.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.366_烟花伯爵_shiny.png"
+  },
+  {
+    "id": "pet_000546",
+    "name": "咕咕帽",
+    "is_shiny": true,
+    "image_id": "JL_gugumao",
+    "handbook_id": "handbook_000367",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.367_咕咕帽.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.367_咕咕帽_shiny.png"
+  },
+  {
+    "id": "pet_000547",
+    "name": "咕德帽帽",
+    "is_shiny": true,
+    "image_id": "JL_gudemaomao",
+    "handbook_id": "handbook_000368",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.368_咕德帽帽.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.368_咕德帽帽_shiny.png"
+  },
+  {
+    "id": "pet_000548",
+    "name": "优优",
+    "is_shiny": false,
+    "image_id": "JL_youyou",
+    "handbook_id": "handbook_000270",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.270_优优.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000549",
+    "name": "绒光优优",
+    "is_shiny": false,
+    "image_id": "JL_rongguangyouyou",
+    "handbook_id": "handbook_000271",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.271_绒光优优.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000550",
+    "name": "蜜果骸",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000551",
+    "name": "半朽蜜果灵",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000552",
+    "name": "小鼓象",
+    "is_shiny": true,
+    "image_id": "JL_xiaoguxiang",
+    "handbook_id": "handbook_000371",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.371_小鼓象.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.371_小鼓象_shiny.png"
+  },
+  {
+    "id": "pet_000553",
+    "name": "巨鼓象",
+    "is_shiny": true,
+    "image_id": "JL_juguxiang",
+    "handbook_id": "handbook_000372",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.372_巨鼓象.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.372_巨鼓象_shiny.png"
+  },
+  {
+    "id": "pet_000554",
+    "name": "封印守卫",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000555",
+    "name": "封印使者",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000556",
+    "name": "上古战龙",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000557",
+    "name": "格斗小七",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000558",
+    "name": "糖串串",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000559",
+    "name": "可烤汪",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000560",
+    "name": "松仔",
+    "is_shiny": false,
+    "image_id": "JL_songzai",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000561",
+    "name": "松叶羊",
+    "is_shiny": false,
+    "image_id": "JL_yesongyang",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000562",
+    "name": "针叶巡林",
+    "is_shiny": false,
+    "image_id": "JL_zhenyexunlin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000563",
+    "name": "水滴蛇",
+    "is_shiny": false,
+    "image_id": "JL_shuidishe",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000564",
+    "name": "水蛇锁",
+    "is_shiny": false,
+    "image_id": "JL_shuishesuo",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000565",
+    "name": "游蛇魔使",
+    "is_shiny": false,
+    "image_id": "JL_youshemoshi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000566",
+    "name": "小勇狮",
+    "is_shiny": false,
+    "image_id": "JL_xiaoyongshi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000567",
+    "name": "炽焰狮",
+    "is_shiny": false,
+    "image_id": "JL_chiyanshi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000568",
+    "name": "炽心勇狮",
+    "is_shiny": false,
+    "image_id": "JL_chixinyongshi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000569",
+    "name": "猴麦仔",
+    "is_shiny": true,
+    "image_id": "JL_houmaizai",
+    "handbook_id": "handbook_000358",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.358_猴麦仔.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.358_猴麦仔_shiny.png"
+  },
+  {
+    "id": "pet_000570",
+    "name": "音碟吼",
+    "is_shiny": true,
+    "image_id": "JL_yindiehou",
+    "handbook_id": "handbook_000359",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.359_音碟吼.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.359_音碟吼_shiny.png"
+  },
+  {
+    "id": "pet_000571",
+    "name": "骨朵鸟",
+    "is_shiny": false,
+    "image_id": "JL_chixinyongshi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000572",
+    "name": "紫花雀",
+    "is_shiny": false,
+    "image_id": "JL_chixinyongshi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000573",
+    "name": "钨丝贝贝",
+    "is_shiny": false,
+    "image_id": "JL_wusibeibei",
+    "handbook_id": "handbook_000348",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.348_钨丝贝贝.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000574",
+    "name": "辉光幕机",
+    "is_shiny": false,
+    "image_id": "JL_huiguangmuji",
+    "handbook_id": "handbook_000349",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.349_辉光幕机.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000575",
+    "name": "机幕方舟",
+    "is_shiny": false,
+    "image_id": "JL_jimufangzhou",
+    "handbook_id": "handbook_000350",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.350_机幕方舟.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000576",
+    "name": "炫光迪迪",
+    "is_shiny": true,
+    "image_id": "JL_xuanguangdidi",
+    "handbook_id": "handbook_000369",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.369_炫光迪迪.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.369_炫光迪迪_shiny.png"
+  },
+  {
+    "id": "pet_000577",
+    "name": "霹雳迪迪",
+    "is_shiny": true,
+    "image_id": "JL_pilididi",
+    "handbook_id": "handbook_000370",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.370_霹雳迪迪.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.370_霹雳迪迪_shiny.png"
+  },
+  {
+    "id": "pet_000578",
+    "name": "小怂猫",
+    "is_shiny": false,
+    "image_id": "JL_xiaosongmao_yidi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000579",
+    "name": "怒目怂猫",
+    "is_shiny": false,
+    "image_id": "JL_numusongmao_yidi",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000580",
+    "name": "宝藏小狐",
+    "is_shiny": false,
+    "image_id": "JL_fangfanghu",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000581",
+    "name": "宝藏沙狐",
+    "is_shiny": false,
+    "image_id": "JL_hulianchacha",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000582",
+    "name": "鸭吉吉",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_qilaiya",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000583",
+    "name": "加油蟹",
+    "is_shiny": true,
+    "image_id": "JL_jiayouxiedanzhi",
+    "handbook_id": "handbook_000361",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.361_加油蟹.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.361_加油蟹_shiny.png"
+  },
+  {
+    "id": "pet_000584",
+    "name": "火红尾",
+    "is_shiny": true,
+    "image_id": "JL_huohongwei",
+    "handbook_id": "handbook_000340",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.340_火红尾.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.340_火红尾_shiny.png"
+  },
+  {
+    "id": "pet_000585",
+    "name": "雅丹鬃",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "handbook_000341",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.341_雅丹鬃.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.341_雅丹鬃_shiny.png"
+  },
+  {
+    "id": "pet_000586",
+    "name": "雪影娃娃·春日",
+    "is_shiny": true,
+    "image_id": "JL_xueyingwawa",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000587",
+    "name": "莫比乌乌",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000588",
+    "name": "克莱因龙",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000589",
+    "name": "森豆丁",
+    "is_shiny": true,
+    "image_id": "JL_huohongwei",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000590",
+    "name": "森蛮人",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000591",
+    "name": "森巨人",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000592",
+    "name": "丁丁卯",
+    "is_shiny": true,
+    "image_id": "JL_huohongwei",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000593",
+    "name": "卯山咪钥",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000594",
+    "name": "火豆丁",
+    "is_shiny": true,
+    "image_id": "JL_huohongwei",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000595",
+    "name": "火蛮人",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000596",
+    "name": "火巨人",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000597",
+    "name": "点点",
+    "is_shiny": true,
+    "image_id": "JL_huohongwei",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000598",
+    "name": "珀尔鼬",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000599",
+    "name": "苞米仔",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000600",
+    "name": "炮米花",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000601",
+    "name": "诅咒狼灵",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000602",
+    "name": "新月狼灵",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000603",
+    "name": "银月狼王",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000604",
+    "name": "新月鹭",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000605",
+    "name": "月辉鹭",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000606",
+    "name": "月使鹭纳",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000607",
+    "name": "章脑丸",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000608",
+    "name": "智辉章脑",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000609",
+    "name": "乌头蝇",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000610",
+    "name": "乌蝇飞贼",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000611",
+    "name": "小浣蛋",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000612",
+    "name": "黑手浣熊",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000613",
+    "name": "幽铃",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000614",
+    "name": "摇铃魔偶",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000615",
+    "name": "布灵",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000616",
+    "name": "布灵布灵",
+    "is_shiny": true,
+    "image_id": "JL_yadanbin",
+    "handbook_id": "",
+    "static_url": "",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000617",
+    "name": "幽影树",
+    "is_shiny": true,
+    "image_id": "JL_youlingshu",
+    "handbook_id": "handbook_000035",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.035_幽影树.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.035_幽影树_shiny.png"
+  },
+  {
+    "id": "pet_000618",
+    "name": "鸭吉吉国王",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_shouling",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉国王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000619",
+    "name": "神谕鲨",
+    "is_shiny": false,
+    "image_id": "JL_caidiesha_shouling",
+    "handbook_id": "handbook_000110",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.110_神谕鲨.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000620",
+    "name": "伊里斯",
+    "is_shiny": false,
+    "image_id": "JL_yilisi",
+    "handbook_id": "handbook_000117",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.117_伊里斯.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000621",
+    "name": "钻石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_shouling",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_钻石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000622",
+    "name": "彩虹独角兽",
+    "is_shiny": true,
+    "image_id": "JL_yilisi",
+    "handbook_id": "handbook_000117",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.117_彩虹独角兽.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.117_彩虹独角兽_shiny.png"
+  },
+  {
+    "id": "pet_000623",
+    "name": "叶冕魔力猫",
+    "is_shiny": false,
+    "image_id": "JL_molimiao_shouling",
+    "handbook_id": "handbook_000004",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.004_叶冕魔力猫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000624",
+    "name": "蹦蹦果",
+    "is_shiny": false,
+    "image_id": "JL_bengbenghua_shouling",
+    "handbook_id": "handbook_000065",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.065_蹦蹦果.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000625",
+    "name": "奇丽果",
+    "is_shiny": true,
+    "image_id": "JL_qilihua_boss",
+    "handbook_id": "handbook_000043",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.043_奇丽果.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.043_奇丽果_shiny.png"
+  },
+  {
+    "id": "pet_000626",
+    "name": "鸭吉吉国王",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_shouling",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉国王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000627",
+    "name": "黑猫密探",
+    "is_shiny": false,
+    "image_id": "JL_heimaowushi_shouling",
+    "handbook_id": "handbook_000122",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.122_黑猫密探.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000628",
+    "name": "迷嶂布莱克",
+    "is_shiny": false,
+    "image_id": "JL_bulaikeyan_shouling",
+    "handbook_id": "handbook_000029",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.029_迷嶂布莱克.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000629",
+    "name": "祭礼巨像",
+    "is_shiny": false,
+    "image_id": "JL_yishijuxiang_shouling",
+    "handbook_id": "handbook_000115",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.115_祭礼巨像.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000630",
+    "name": "圣水守护",
+    "is_shiny": false,
+    "image_id": "JL_shuiling_shouling",
+    "handbook_id": "handbook_000010",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.010_圣水守护.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000631",
+    "name": "神谕鲨",
+    "is_shiny": false,
+    "image_id": "JL_caidiesha_shouling",
+    "handbook_id": "handbook_000110",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.110_神谕鲨.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000632",
+    "name": "千棘海针",
+    "is_shiny": false,
+    "image_id": "JL_qianjikui_shouling",
+    "handbook_id": "handbook_000078",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘海针.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000633",
+    "name": "雪影冰灵",
+    "is_shiny": true,
+    "image_id": "JL_xueyingwawa_shouling",
+    "handbook_id": "handbook_000144",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.144_雪影冰灵.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.144_雪影冰灵_shiny.png"
+  },
+  {
+    "id": "pet_000634",
+    "name": "霜翼领主",
+    "is_shiny": false,
+    "image_id": "JL_lanniao_shouling",
+    "handbook_id": "handbook_000020",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.020_霜翼领主.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000635",
+    "name": "女王蜂",
+    "is_shiny": false,
+    "image_id": "JL_huakuifenghou_shouling",
+    "handbook_id": "handbook_000084",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.084_女王蜂.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000636",
+    "name": "恶魔狼王",
+    "is_shiny": true,
+    "image_id": "JL_emolang_shouling",
+    "handbook_id": "handbook_000131",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.131_恶魔狼王.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.131_恶魔狼王_shiny.png"
+  },
+  {
+    "id": "pet_000637",
+    "name": "烈火战神",
+    "is_shiny": false,
+    "image_id": "JL_huoshen_shouling",
+    "handbook_id": "handbook_000007",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.007_烈火战神.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000638",
+    "name": "风暴战犬",
+    "is_shiny": false,
+    "image_id": "JL_yinsuquan_shouling",
+    "handbook_id": "handbook_000048",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.048_风暴战犬.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000639",
+    "name": "幻影荆棘",
+    "is_shiny": true,
+    "image_id": "JL_youyingshu_shouling",
+    "handbook_id": "handbook_000035",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.035_幻影荆棘.png",
+    "shiny_static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.035_幻影荆棘_shiny.png"
+  },
+  {
+    "id": "pet_000640",
+    "name": "波普鹿",
+    "is_shiny": false,
+    "image_id": "JL_jueshilu_shouling",
+    "handbook_id": "handbook_000228",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.228_波普鹿.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000641",
+    "name": "圣剑骑士",
+    "is_shiny": false,
+    "image_id": "JL_shengjianX_shouling",
+    "handbook_id": "handbook_000286",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.286_圣剑骑士.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000642",
+    "name": "伊兰龙",
+    "is_shiny": false,
+    "image_id": "JL_yilanyalong_shouling",
+    "handbook_id": "handbook_000204",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.204_伊兰龙.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000643",
+    "name": "棋契陛下",
+    "is_shiny": false,
+    "image_id": "JL_qiqibixia",
+    "handbook_id": "handbook_000189",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.189_棋契陛下.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000644",
+    "name": "奇梦咪",
+    "is_shiny": false,
+    "image_id": "JL_qimengmi_shouling",
+    "handbook_id": "handbook_000200",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.200_奇梦咪.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000645",
+    "name": "圣光迪莫",
+    "is_shiny": false,
+    "image_id": "JL_shengguangdimo",
+    "handbook_id": "handbook_000001",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.001_圣光迪莫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000646",
+    "name": "圣草迪莫",
+    "is_shiny": false,
+    "image_id": "JL_shengcaodimo",
+    "handbook_id": "handbook_000001",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.001_圣草迪莫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000647",
+    "name": "圣火迪莫",
+    "is_shiny": false,
+    "image_id": "JL_shenghuodimo",
+    "handbook_id": "handbook_000001",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.001_圣火迪莫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000648",
+    "name": "圣水迪莫",
+    "is_shiny": false,
+    "image_id": "JL_shengshuidimo",
+    "handbook_id": "handbook_000001",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.001_圣水迪莫.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000649",
+    "name": "千棘海针",
+    "is_shiny": false,
+    "image_id": "JL_qianjikui_shouling",
+    "handbook_id": "handbook_000078",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.078_千棘海针.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000650",
+    "name": "霜翼领主",
+    "is_shiny": false,
+    "image_id": "JL_lanniao_shouling",
+    "handbook_id": "handbook_000020",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.020_霜翼领主.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000651",
+    "name": "霜翼领主",
+    "is_shiny": false,
+    "image_id": "JL_lanniao_shouling",
+    "handbook_id": "handbook_000020",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.020_霜翼领主.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000652",
+    "name": "霜翼领主",
+    "is_shiny": false,
+    "image_id": "JL_lanniao_shouling",
+    "handbook_id": "handbook_000020",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.020_霜翼领主.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000653",
+    "name": "蹦蹦果",
+    "is_shiny": false,
+    "image_id": "JL_bengbenghua_shouling",
+    "handbook_id": "handbook_000065",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.065_蹦蹦果.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000654",
+    "name": "蹦蹦果",
+    "is_shiny": false,
+    "image_id": "JL_bengbenghua_shouling",
+    "handbook_id": "handbook_000065",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.065_蹦蹦果.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000655",
+    "name": "蹦蹦果",
+    "is_shiny": false,
+    "image_id": "JL_bengbenghua_shouling",
+    "handbook_id": "handbook_000065",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.065_蹦蹦果.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000656",
+    "name": "鸭吉吉国王",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_shouling",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉国王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000657",
+    "name": "鸭吉吉国王",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_shouling",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉国王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000658",
+    "name": "鸭吉吉国王",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_shouling",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉国王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000659",
+    "name": "鸭吉吉国王",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_shouling",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉国王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000660",
+    "name": "棋契陛下",
+    "is_shiny": false,
+    "image_id": "JL_qiqibixia",
+    "handbook_id": "handbook_000190",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.190_棋契陛下.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000661",
+    "name": "棋契陛下",
+    "is_shiny": false,
+    "image_id": "JL_qiqibixia",
+    "handbook_id": "handbook_000191",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.191_棋契陛下.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000662",
+    "name": "棋契陛下",
+    "is_shiny": false,
+    "image_id": "JL_qiqibixia",
+    "handbook_id": "handbook_000192",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.192_棋契陛下.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000663",
+    "name": "棋契陛下",
+    "is_shiny": false,
+    "image_id": "JL_qiqibixia",
+    "handbook_id": "handbook_000189",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.189_棋契陛下.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000664",
+    "name": "钻石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_shouling",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_钻石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000665",
+    "name": "钻石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_shouling",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_钻石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000666",
+    "name": "钻石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_shouling",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_钻石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000667",
+    "name": "钻石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_shouling",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_钻石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000668",
+    "name": "钻石蜗",
+    "is_shiny": false,
+    "image_id": "JL_jingshiwo_shouling",
+    "handbook_id": "handbook_000040",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.040_钻石蜗.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000669",
+    "name": "鸭吉吉国王",
+    "is_shiny": false,
+    "image_id": "JL_yajiji_shouling",
+    "handbook_id": "handbook_000011",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.011_鸭吉吉国王.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000670",
+    "name": "深渊罗隐",
+    "is_shiny": false,
+    "image_id": "JL_shenyuanluoyin",
+    "handbook_id": "handbook_000107",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.107_深渊罗隐.png",
+    "shiny_static_url": ""
+  },
+  {
+    "id": "pet_000671",
+    "name": "高帽鹬者",
+    "is_shiny": false,
+    "image_id": "JL_gaomaoyuzhe",
+    "handbook_id": "handbook_000233",
+    "static_url": "https://static.gamecenter.qq.com/xgame/roco-kingdom/compendium/a/i/NO.233_高帽鹬者.png",
+    "shiny_static_url": ""
+  }
+]
